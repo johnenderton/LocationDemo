@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<item lat="10.702580" lng="106.608025" type="0x2e02" name="ĐầumốiBìnhĐiền">Đầu mối Bình Điền</item>-->
+    <!--<item lat="10.708019" lng="106.641327" type="0x6401" name="Cầu Mã Vôi"/>-->
+    <!--<item lat="10.708317" lng="106.640984" type="0x6401" name="Cầu Mã Vôi"/>-->
+    <!--<item lat="10.710180" lng="106.619225" type="0x2f17" name="Phú Định"/>-->
+    <!--<item lat="10.710417" lng="106.690628" type="0x6401" name="Phước lộc"/>-->
+    <!--<item lat="10.711037" lng="106.625610" type="0x6404" name="Giáo xứ Bình Sơn"/>-->
+    <!--<item lat="10.711474" lng="106.644585" type="0x2f11" name="Công ty cổ phần sản xuất kinh doanh Vật liệu xây dựng Chơn Thành"/>-->
+    <!--<item lat="10.712658" lng="106.623604" type="0x2d08" name="Chùa Giác Linh"/>-->
+    <!--<item lat="10.712853" lng="106.647575" type="0x6401" name="Cầu Bà Lớn"/>-->
+    <!--<item lat="10.712887" lng="106.646339" type="0x6411" name="Cao ốc 13C A.View"/>-->
+    <!--<item lat="10.713229" lng="106.647263" type="0x6401" name="Cầu Bà Lớn"/>-->
+    <!--<item lat="10.713438" lng="106.616188" type="0x2d08" name="Viên Giác Ni Tự"/>-->
+    <!--<item lat="10.714420" lng="106.615967" type="0x2f01" name="DNTN KD XANG DAU PHUOC THANH"/>-->
+    <!--<item lat="10.714550" lng="106.737053" type="0x2f01" name="TRAM XANG DAU BINH TRUNG"/>-->
+    <!--<item lat="10.716197" lng="106.618996" type="0x6401" name="Cầu Mỹ Thuận"/>-->
+    <!--<item lat="10.717301" lng="106.626755" type="0x6401" name="Cầu Nhà Thương"/>-->
+    <!--<item lat="10.717530" lng="106.736702" type="0x2f01" name="TRAM XANG DAU THACH DO"/>-->
+    <!--<item lat="10.718490" lng="106.604095" type="0x6401" name="Cầu Nước Lên"/>-->
+    <!--<item lat="10.718714" lng="106.604073" type="0x6401" name="Cầu Nước Lên"/>-->
+    <!--<item lat="10.719228" lng="106.619682" type="0x2d08" name="Chùa Phú Định"/>-->
+    <!--<item lat="10.719333" lng="106.600037" type="0x2c05" name="Cao Đẳng Kỹ thuật công nghệ TP HCM"/>-->
+    <!--<item lat="10.721800" lng="106.709991" type="0x2c05" name="SOUTH SAIGON INTERNATIONAL SCHOOL"/>-->
+    <!--<item lat="10.723927" lng="106.652519" type="0x2c05" name="Trường THCS Nguyễn Thái Bình"/>-->
+    <!--<item lat="10.724011" lng="106.610115" type="0x2d08" name="Chùa Sùng Quang"/>-->
+    <!--<item lat="10.724090" lng="106.600952" type="0x2f01" name="PHAT DAT 1 TRADING PTE."/>-->
+    <!--<item lat="10.724158" lng="106.630943" type="0x5300" name="Đền Thánh Trần Hưng Đạo"/>-->
+    <!--<item lat="10.724335" lng="106.697906" type="0x6401" name="Cầu Rạch Đĩa 1"/>-->
+    <!--<item lat="10.724480" lng="106.698112" type="0x6401" name="RACH DIA OLD"/>-->
+    <!--<item lat="10.724500" lng="106.700188" type="0x6401" name="RACH DIA 2"/>-->
+    <!--<item lat="10.724569" lng="106.631577" type="0x6401" name="Cầu Số 3"/>-->
+    <!--<item lat="10.724612" lng="106.700668" type="0x6401" name="Cầu Rạch Đĩa 2"/>-->
+    <!--<item lat="10.724667" lng="106.701065" type="0x6401" name="Cầu Rạch Đĩa 2"/>-->
+    <!--<item lat="10.724686" lng="106.718605" type="0x2c04" name="Cầu Ánh Sao"/>-->
+    <!--<item lat="10.724720" lng="106.701241" type="0x6401" name="RACH DIA 1"/>-->
+    <!--<item lat="10.725850" lng="106.733978" type="0x2f01" name="CUA HANG XANG DAU SO 48"/>-->
+    <!--<item lat="10.725940" lng="106.608688" type="0x2f01" name="TRAM KINH DOANH XANG DAU MY ANH"/>-->
+    <!--<item lat="10.726014" lng="106.604118" type="0x6401" name="Cầu An Lạc"/>-->
+    <!--<item lat="10.726050" lng="106.734001" type="0x2f01" name="TRAM XANG DAU PHU THUAN THANH"/>-->
+    <!--<item lat="10.726214" lng="106.604134" type="0x6401" name="Cầu An Lạc"/>-->
+    <!--<item lat="10.726438" lng="106.654068" type="0x3002" name="Hội Đông Y Huyện Bình Chánh - Chi Hội Bình Hưng - Phòng Chẩn Trị Y Học Cổ Truyền"/>-->
+    <!--<item lat="10.726561" lng="106.654839" type="0x3003" name="Uỷ Ban Nhân Dân Xã Bình Hưng"/>-->
+    <!--<item lat="10.726785" lng="106.669678" type="0x6401" name="Xóm Củi"/>-->
+    <!--<item lat="10.726857" lng="106.631378" type="0x6401" name="Vạn Nguyên"/>-->
+    <!--<item lat="10.726860" lng="106.733360" type="0x2f01" name="TRAM XANG DAU PETROLIMEX"/>-->
+    <!--<item lat="10.727166" lng="106.669662" type="0x6401" name="Xóm Củi"/>-->
+    <!--<item lat="10.727680" lng="106.733261" type="0x2f01" name="TRAM XANG DAU TAN THUAN DONG"/>-->
+    <!--<item lat="10.727716" lng="106.653664" type="0x2f11" name="Công ty Tư Vấn Đầu Tư Việt Sin"/>-->
+    <!--<item lat="10.727760" lng="106.693962" type="0x2f17" name="RMIT (EASTBOUND"/>-->
+    <!--<item lat="10.727960" lng="106.705040" type="0x2a07" name="SWISS ALPS"/>-->
+    <!--<item lat="10.728013" lng="106.694794" type="0x2500" name="Trạm thu phí Phú Mỹ Hưng"/>-->
+    <!--<item lat="10.728040" lng="106.708542" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.728040" lng="106.709221" type="0x2f17" name="PMH 7"/>-->
+    <!--<item lat="10.728080" lng="106.697166" type="0x6401" name="Cầu Tư Dinh"/>-->
+    <!--<item lat="10.728354" lng="106.601906" type="0x6401" name="Cầu An Lập"/>-->
+    <!--<item lat="10.728462" lng="106.601814" type="0x6401" name="Cầu An Lập"/>-->
+    <!--<item lat="10.728620" lng="106.743271" type="0x2f01" name="NAM THIEN PTE."/>-->
+    <!--<item lat="10.728660" lng="106.694519" type="0x2500" name=""/>-->
+    <!--<item lat="10.728880" lng="106.694008" type="0x2f17" name="RMIT"/>-->
+    <!--<item lat="10.729140" lng="106.693542" type="0x2c05" name="RMIT"/>-->
+    <!--<item lat="10.729350" lng="106.704803" type="0x2e02" name="FIVI MART"/>-->
+    <!--<item lat="10.729471" lng="106.676910" type="0x2b00" name="Hồng Hà"/>-->
+    <!--<item lat="10.729480" lng="106.706390" type="0x2a00" name="AL FRESCO'S"/>-->
+    <!--<item lat="10.729503" lng="106.654976" type="0x2d08" name="Chùa Linh Sơn"/>-->
+    <!--<item lat="10.729570" lng="106.632401" type="0x2f01" name="MAI HUNG PTE."/>-->
+    <!--<item lat="10.729690" lng="106.721581" type="0x2e02" name="PARAGON"/>-->
+    <!--<item lat="10.730103" lng="106.627129" type="0x6401" name="Cầu Rạch Cây"/>-->
+    <!--<item lat="10.730230" lng="106.699844" type="0x2c05" name="Saigon Internation Children School"/>-->
+    <!--<item lat="10.730230" lng="106.721298" type="0x2f17" name="ENTERTAINMENT CENTER"/>-->
+    <!--<item lat="10.730398" lng="106.627281" type="0x6401" name="Cầu Rạch Cây"/>-->
+    <!--<item lat="10.730617" lng="106.602089" type="0x3001" name="Quận Bình Tân"/>-->
+    <!--<item lat="10.731070" lng="106.600212" type="0x2f01" name="CONG TY TNHH TMDV VAN HOAN"/>-->
+    <!--<item lat="10.731280" lng="106.721039" type="0x2f17" name="ENTERTAINMENT CENTER"/>-->
+    <!--<item lat="10.731970" lng="106.656090" type="0x2f01" name="CUA HANG XANG DAU"/>-->
+    <!--<item lat="10.732270" lng="106.708961" type="0x2d02" name="TAVERN"/>-->
+    <!--<item lat="10.732523" lng="106.634529" type="0x6401" name="Cầu Vĩnh Mậu"/>-->
+    <!--<item lat="10.732680" lng="106.718292" type="0x3002" name="FV HOSPITAL"/>-->
+    <!--<item lat="10.732926" lng="106.643478" type="0x640d" name="Xí Nghiệp Cơ Khí Nông Lương"/>-->
+    <!--<item lat="10.733266" lng="106.633743" type="0x6401" name="Cầu Phú Định"/>-->
+    <!--<item lat="10.733522" lng="106.656586" type="0x2f08" name="Bến xe Quận 8"/>-->
+    <!--<item lat="10.733580" lng="106.717949" type="0x3002" name="TAM DUC CARDIOLOGY"/>-->
+    <!--<item lat="10.733648" lng="106.674263" type="0x2e02" name="Chợ Đầu mối Thuỷ sản"/>-->
+    <!--<item lat="10.733693" lng="106.643936" type="0x2e02" name="Chợ Bình An"/>-->
+    <!--<item lat="10.733960" lng="106.602623" type="0x2f01" name="TRAM XANG UY MINH"/>-->
+    <!--<item lat="10.734014" lng="106.634064" type="0x6401" name="Cầu Lò Gốm"/>-->
+    <!--<item lat="10.734193" lng="106.634010" type="0x6401" name="Cầu Lò Gốm"/>-->
+    <!--<item lat="10.735190" lng="106.730850" type="0x2f01" name="CUA HANG XANG DAU COMECO 19"/>-->
+    <!--<item lat="10.735320" lng="106.656258" type="0x2f01" name="TRAM XANG DAU HIEP AN"/>-->
+    <!--<item lat="10.735680" lng="106.613762" type="0x2f01" name="DAI LY BAN LE XANG DAU NAM PHUC"/>-->
+    <!--<item lat="10.736090" lng="106.613731" type="0x2f01" name="CUA HANG XANG DAU SO 15 (COMECO"/>-->
+    <!--<item lat="10.736447" lng="106.671402" type="0x2f06" name="Ngan hang Agribank - PGD Chanh Hung"/>-->
+    <!--<item lat="10.736732" lng="106.691757" type="0x2c05" name="Singapore International School - SIS"/>-->
+    <!--<item lat="10.736787" lng="106.703018" type="0x6401" name="Cầu Rạch Bàng 1"/>-->
+    <!--<item lat="10.737420" lng="106.730362" type="0x2f01" name="QUAN TAM QUYNH TRADING SERVICES CO./ LTD"/>-->
+    <!--<item lat="10.737661" lng="106.634087" type="0x6401" name="Cầu Phạm Văn Chí"/>-->
+    <!--<item lat="10.737680" lng="106.650841" type="0x2f01" name="TRAM XANG DAU DV TONG HOP"/>-->
+    <!--<item lat="10.737777" lng="106.700455" type="0x6401" name="Cầu Rạch Bàng 2"/>-->
+    <!--<item lat="10.737980" lng="106.641922" type="0x6401" name="Cầu Số 2"/>-->
+    <!--<item lat="10.738040" lng="106.718582" type="0x2f01" name="TRAM XANG DAU RIMASA"/>-->
+    <!--<item lat="10.738110" lng="106.614922" type="0x2f01" name="TRAM XANG DAU K22"/>-->
+    <!--<item lat="10.738199" lng="106.657516" type="0x3003" name="Chi Cục Thuế Quận 8"/>-->
+    <!--<item lat="10.738213" lng="106.690308" type="0x2b00" name="Ngoc Anh"/>-->
+    <!--<item lat="10.738430" lng="106.730247" type="0x2f01" name="TAN PHONG TRANSPORT TRADING CO./ LTD"/>-->
+    <!--<item lat="10.738603" lng="106.669868" type="0x2f06" name="Ngan hang Sacombank - Chi nhanh quan 8"/>-->
+    <!--<item lat="10.738790" lng="106.709930" type="0x2f01" name="TRAM XANG DAU THINH TAM PHAT"/>-->
+    <!--<item lat="10.739153" lng="106.669853" type="0x2e04" name="Titan I"/>-->
+    <!--<item lat="10.739172" lng="106.644051" type="0x640d" name="Xí nghiệp Imexco"/>-->
+    <!--<item lat="10.739200" lng="106.615860" type="0x2f01" name="TRAM XANG DAU 268"/>-->
+    <!--<item lat="10.739549" lng="106.616882" type="0x3002" name="Triều An"/>-->
+    <!--<item lat="10.739886" lng="106.654083" type="0x2e02" name="Chợ Lò Than"/>-->
+    <!--<item lat="10.739910" lng="106.704330" type="0x6411" name="Hoang Anh Gia Lai"/>-->
+    <!--<item lat="10.740230" lng="106.617058" type="0x2f01" name="CUA HANG XANG DAU SO 14"/>-->
+    <!--<item lat="10.740720" lng="106.618927" type="0x2f17" name="BEN XE MIEN T"/>-->
+    <!--<item lat="10.740720" lng="106.701332" type="0x2f17" name="LOTTE MART"/>-->
+    <!--<item lat="10.740869" lng="106.685966" type="0x3002" name="Bệnh viện điều dưỡng"/>-->
+    <!--<item lat="10.740900" lng="106.618561" type="0x2f08" name="BUS STATION"/>-->
+    <!--<item lat="10.741040" lng="106.701393" type="0x2d03" name="LOTTERIA"/>-->
+    <!--<item lat="10.741085" lng="106.672585" type="0x2d08" name="Buu Quang"/>-->
+    <!--<item lat="10.741280" lng="106.647232" type="0x2f01" name="NGUYEN HOAI ANH CO./ LTD"/>-->
+    <!--<item lat="10.741500" lng="106.701523" type="0x2e02" name=""/>-->
+    <!--<item lat="10.741500" lng="106.703468" type="0x2f01" name="TONG AN KHUONG TRADING SERVICES PTE."/>-->
+    <!--<item lat="10.741540" lng="106.659851" type="0x2f01" name="TRAM XANG DAU HOANG TUAN"/>-->
+    <!--<item lat="10.741690" lng="106.729950" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.741715" lng="106.676849" type="0x3002" name="Bệnh viện quận 8"/>-->
+    <!--<item lat="10.741746" lng="106.656044" type="0x6401" name="Nhị Thiên Đường"/>-->
+    <!--<item lat="10.741899" lng="106.661346" type="0x6401" name="Hiệp Ân"/>-->
+    <!--<item lat="10.742368" lng="106.656128" type="0x2d08" name="Linh Phước"/>-->
+    <!--<item lat="10.742700" lng="106.666161" type="0x2f01" name="TRAM XANG DAU TIEN THINH"/>-->
+    <!--<item lat="10.742780" lng="106.620430" type="0x2f01" name="STORE PETROLEUM NO.1"/>-->
+    <!--<item lat="10.743020" lng="106.668022" type="0x2f01" name="VAN ANH TRADING PTE."/>-->
+    <!--<item lat="10.743430" lng="106.700249" type="0x2c05" name="V-STAR"/>-->
+    <!--<item lat="10.743530" lng="106.621109" type="0x2f01" name="TONG CONG TY XANG DAU QUAN DOI"/>-->
+    <!--<item lat="10.743750" lng="106.621353" type="0x2f01" name="CAY XANG K22 QUAN DOI"/>-->
+    <!--<item lat="10.743976" lng="106.668961" type="0x6401" name="Chánh Hưng"/>-->
+    <!--<item lat="10.744155" lng="106.654984" type="0x2e04" name="CoopMart Tuy Lý Vương"/>-->
+    <!--<item lat="10.744310" lng="106.622269" type="0x2f01" name="TRAM XANG DAU SO 23"/>-->
+    <!--<item lat="10.744310" lng="106.643921" type="0x2f01" name="CONG TY TNHH QUOC KHANH"/>-->
+    <!--<item lat="10.744390" lng="106.729332" type="0x2f01" name="TRAM XANG DAU BINH THUAN"/>-->
+    <!--<item lat="10.744555" lng="106.704376" type="0x6411" name="Minh Thành"/>-->
+    <!--<item lat="10.744600" lng="106.656151" type="0x2f05" name="Bưu điện Trung tâm Chợ Lớn"/>-->
+    <!--<item lat="10.744650" lng="106.622269" type="0x2f01" name="TRAM XANG 70"/>-->
+    <!--<item lat="10.744988" lng="106.744751" type="0x6401" name="Phú Mỹ"/>-->
+    <!--<item lat="10.745109" lng="106.660797" type="0x3003" name="Thư Viện Quận 8"/>-->
+    <!--<item lat="10.745140" lng="106.676109" type="0x2f01" name="DUC THINH TRADING PTE."/>-->
+    <!--<item lat="10.745640" lng="106.623901" type="0x2f01" name="STORE PETROLEUM NO.13"/>-->
+    <!--<item lat="10.745770" lng="106.683113" type="0x2f01" name="CHUNG THANH TRADING SERVICES CO./ LTD"/>-->
+    <!--<item lat="10.745830" lng="106.659309" type="0x2f01" name="CONG TY CP TM TONG HOP QUAN 8 - CUA HANG XANG DAU"/>-->
+    <!--<item lat="10.746040" lng="106.729111" type="0x2f01" name="SAIGON SOUTH TRADING J.S.C"/>-->
+    <!--<item lat="10.746076" lng="106.704285" type="0x3003" name="Uỷ ban dân số Gia Đình và Trẻ Em"/>-->
+    <!--<item lat="10.746190" lng="106.614952" type="0x2f01" name="THANH DAT Q.N TRADING SERVICES PTE."/>-->
+    <!--<item lat="10.746190" lng="106.633598" type="0x2f01" name="DNTN XANG DAU BINH PHU"/>-->
+    <!--<item lat="10.746405" lng="106.660599" type="0x2e02" name="Chợ Xóm Củi"/>-->
+    <!--<item lat="10.746455" lng="106.634872" type="0x3002" name="Bệnh viện quận 6"/>-->
+    <!--<item lat="10.746880" lng="106.631332" type="0x2a07" name="CHICKEN TOWN STORE"/>-->
+    <!--<item lat="10.747160" lng="106.661751" type="0x2f01" name="DNTN XANG DAU MINH TRANG"/>-->
+    <!--<item lat="10.747200" lng="106.631561" type="0x2f01" name="TRAM XANG DAU SO 10"/>-->
+    <!--<item lat="10.747346" lng="106.674515" type="0x2e02" name="Chợ Hưng Phú"/>-->
+    <!--<item lat="10.747433" lng="106.680237" type="0x6401" name="Mật"/>-->
+    <!--<item lat="10.747452" lng="106.660255" type="0x6411" name="Prudential Plaza"/>-->
+    <!--<item lat="10.747830" lng="106.646744" type="0x2f01" name="TRAM XANG DONG THANH"/>-->
+    <!--<item lat="10.747850" lng="106.705078" type="0x2f01" name="TAN HUNG AGENT"/>-->
+    <!--<item lat="10.748050" lng="106.668205" type="0x2e02" name="Chợ Ba Đình"/>-->
+    <!--<item lat="10.748210" lng="106.635681" type="0x2f01" name="DNTN TMDV VAN TAI THANH THANH TRUC"/>-->
+    <!--<item lat="10.748250" lng="106.715813" type="0x2f01" name="CONG TY CP VAN TAI XANG DAU TOAN CAU"/>-->
+    <!--<item lat="10.748380" lng="106.675682" type="0x2f01" name="TRAM XANG DAU HUNG PHU"/>-->
+    <!--<item lat="10.748900" lng="106.683319" type="0x2f01" name="TRAM XANG DAU DUC LOI"/>-->
+    <!--<item lat="10.749110" lng="106.628067" type="0x2f01" name="CUA HANG XANG DAU SO 51"/>-->
+    <!--<item lat="10.749225" lng="106.639809" type="0x6401" name="Cầu Hậu Giang"/>-->
+    <!--<item lat="10.749647" lng="106.669289" type="0x6401" name="Nguyễn Tri Phương"/>-->
+    <!--<item lat="10.750080" lng="106.650841" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.750230" lng="106.679802" type="0x2f01" name="DAI LY BAN LE XANG DAU"/>-->
+    <!--<item lat="10.750527" lng="106.673187" type="0x3001" name="Cảnh sát hình sự về ma túy"/>-->
+    <!--<item lat="10.750806" lng="106.683815" type="0x6401" name="Cầu Chữ Y"/>-->
+    <!--<item lat="10.750943" lng="106.690323" type="0x6401" name="Rạch Ông"/>-->
+    <!--<item lat="10.751110" lng="106.650681" type="0x2f01" name="CUA HANG XANG DAU SO 04"/>-->
+    <!--<item lat="10.751410" lng="106.715874" type="0x2f01" name="SAIGON PETRO - CUA HANG XANG DAU SO 4"/>-->
+    <!--<item lat="10.751500" lng="106.663361" type="0x2f01" name="CONG TY TNHH MTV THUAN LOI PHAT"/>-->
+    <!--<item lat="10.751957" lng="106.707748" type="0x2f17" name="Bến đò Long Kiểng"/>-->
+    <!--<item lat="10.752027" lng="106.678780" type="0x3002" name="Nhiệt Đới"/>-->
+    <!--<item lat="10.752034" lng="106.678497" type="0x3002" name="Tâm Thần Tp.hcm"/>-->
+    <!--<item lat="10.752100" lng="106.677078" type="0x2f01" name="CO SO DAI QUANG"/>-->
+    <!--<item lat="10.752387" lng="106.702232" type="0x6401" name="Kênh Tẻ"/>-->
+    <!--<item lat="10.752480" lng="106.632141" type="0x2f01" name="CONG TY CP VAT TU XANG DAU COMECO - CN 12"/>-->
+    <!--<item lat="10.752514" lng="106.687225" type="0x6401" name="Nguyễn Văn Cừ"/>-->
+    <!--<item lat="10.752550" lng="106.669647" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.752690" lng="106.679672" type="0x3002" name="Chợ Quán"/>-->
+    <!--<item lat="10.752991" lng="106.703209" type="0x650b" name="Cảng Tôn Thất Thuyết - Bến 42A"/>-->
+    <!--<item lat="10.753088" lng="106.678322" type="0x3002" name="Nhiệt Đới"/>-->
+    <!--<item lat="10.753122" lng="106.710953" type="0x640d" name="Xí nghiệp Chế biến thực phẩm"/>-->
+    <!--<item lat="10.753210" lng="106.633202" type="0x2f01" name="STORE PETROLEUM NO.12"/>-->
+    <!--<item lat="10.753600" lng="106.647980" type="0x2f01" name="CO SO TY LOI"/>-->
+    <!--<item lat="10.753620" lng="106.653954" type="0x2f01" name="CUA HANG PHOT DONG THANH"/>-->
+    <!--<item lat="10.753750" lng="106.658318" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.753900" lng="106.638962" type="0x2f01" name="HUYNH KHANG TRADING PTE."/>-->
+    <!--<item lat="10.753900" lng="106.666580" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.754029" lng="106.665695" type="0x3002" name="Bệnh Viện Quận 5"/>-->
+    <!--<item lat="10.754112" lng="106.672050" type="0x3002" name="An Bình"/>-->
+    <!--<item lat="10.754126" lng="106.694588" type="0x2f05" name="Bưu điện Nguyễn Khoái"/>-->
+    <!--<item lat="10.754211" lng="106.670212" type="0x3002" name="Nguyễn Tri Phương"/>-->
+    <!--<item lat="10.754280" lng="106.677361" type="0x2f01" name="STORE PETROLEUM NO.36 (PETROLIMEX"/>-->
+    <!--<item lat="10.754310" lng="106.668060" type="0x2f01" name="CUA HANG XANG DAU 549"/>-->
+    <!--<item lat="10.754310" lng="106.681953" type="0x2f01" name="TIEM TIEN XAM"/>-->
+    <!--<item lat="10.754350" lng="106.707649" type="0x6404" name="CHUA PHO MINH"/>-->
+    <!--<item lat="10.754434" lng="106.688766" type="0x6401" name="Cầu Nguyễn Kiệu"/>-->
+    <!--<item lat="10.754448" lng="106.636658" type="0x6401" name="Cầu Phú Lâm 1"/>-->
+    <!--<item lat="10.754460" lng="106.681320" type="0x6404" name="CHUAPHAPHOA1"/>-->
+    <!--<item lat="10.754560" lng="106.640541" type="0x2f01" name="CONG TY CP VAT TU XANG DAU COMESCO"/>-->
+    <!--<item lat="10.754610" lng="106.706062" type="0x6404" name="CHUA HUONG LONG"/>-->
+    <!--<item lat="10.754610" lng="106.707199" type="0x6404" name="CHUA LINH BUU"/>-->
+    <!--<item lat="10.754670" lng="106.706093" type="0x6404" name="CHUAHUONGLONG"/>-->
+    <!--<item lat="10.754761" lng="106.636765" type="0x6401" name="Cầu Phú Lâm 2"/>-->
+    <!--<item lat="10.754800" lng="106.696579" type="0x6404" name="CHUA LINH QUANG TINH XA"/>-->
+    <!--<item lat="10.754872" lng="106.659744" type="0x3002" name="Truyền Máu Huyết Học"/>-->
+    <!--<item lat="10.754990" lng="106.704391" type="0x6404" name="CHUA LIEN TRI"/>-->
+    <!--<item lat="10.755100" lng="106.724838" type="0x2f01" name="TRAM XANG DAU TAN THUAN"/>-->
+    <!--<item lat="10.755160" lng="106.724350" type="0x2f01" name="PETROLEUM TRANSPORT J.S.C (PTS SAIGON"/>-->
+    <!--<item lat="10.755249" lng="106.720398" type="0x6401" name="Cầu Tân Thuận 2"/>-->
+    <!--<item lat="10.755270" lng="106.719261" type="0x2f01" name="CONG TY CP PETEC BINH DINH - CN"/>-->
+    <!--<item lat="10.755338" lng="106.662018" type="0x3002" name="Phụ sản Hùng Vương"/>-->
+    <!--<item lat="10.755340" lng="106.650078" type="0x2f01" name="TAN DAI PHAT CO./ LTD"/>-->
+    <!--<item lat="10.755380" lng="106.672050" type="0x2f01" name="CUA HANG XANG DAU SO 41"/>-->
+    <!--<item lat="10.755420" lng="106.703232" type="0x6404" name="CAO DAI PAGODA"/>-->
+    <!--<item lat="10.755530" lng="106.683113" type="0x2f06" name="FICOMBANK"/>-->
+    <!--<item lat="10.755570" lng="106.663330" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.755640" lng="106.651001" type="0x2f01" name="DAI LY XANG DAU 203"/>-->
+    <!--<item lat="10.755686" lng="106.662865" type="0x2e01" name="Parkson Hùng Vương"/>-->
+    <!--<item lat="10.755720" lng="106.663277" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.755720" lng="106.675301" type="0x2f01" name="DNTN VAN TAI XANG DAU AN NHAT"/>-->
+    <!--<item lat="10.755728" lng="106.665222" type="0x3002" name="Đại Học Y Dược"/>-->
+    <!--<item lat="10.755740" lng="106.671371" type="0x2f06" name="VIETINBANK DIST 5"/>-->
+    <!--<item lat="10.755805" lng="106.720665" type="0x6401" name="Cầu Tân Thuận 1"/>-->
+    <!--<item lat="10.755810" lng="106.605072" type="0x2f01" name="TRAM XANG HOA HIEP"/>-->
+    <!--<item lat="10.755844" lng="106.674980" type="0x3002" name="Nguyễn Trãi"/>-->
+    <!--<item lat="10.755850" lng="106.721359" type="0x2f01" name="PHU THUAN THANH PTE."/>-->
+    <!--<item lat="10.755875" lng="106.670952" type="0x3002" name="Quân Y 7A"/>-->
+    <!--<item lat="10.756000" lng="106.683861" type="0x2f01" name="CUA HANG XANG DAU SO 27 (PETROLIMEX"/>-->
+    <!--<item lat="10.756040" lng="106.651031" type="0x2f01" name="TRUNG TAM PHAN PHOI THIET BI PHU TUNG XANG DAU THON KY"/>-->
+    <!--<item lat="10.756093" lng="106.685066" type="0x3002" name="Bệnh Viện Nhi khoa Nancy"/>-->
+    <!--<item lat="10.756150" lng="106.684441" type="0x2a07" name="JOLLIBEE"/>-->
+    <!--<item lat="10.756179" lng="106.668076" type="0x3003" name="UBND quận 5"/>-->
+    <!--<item lat="10.756182" lng="106.684502" type="0x2d00" name="Báo sai"/>-->
+    <!--<item lat="10.756190" lng="106.651047" type="0x2f01" name="CO SO SX TM THIET BI PHU TUNG XANG DAU THON KY"/>-->
+    <!--<item lat="10.756300" lng="106.685081" type="0x2f01" name="PETROLIMEX - CUA HANG XANG DAU SO 37"/>-->
+    <!--<item lat="10.756320" lng="106.705383" type="0x2f05" name="BUU DIEN TP HO CHI MINH"/>-->
+    <!--<item lat="10.756487" lng="106.633278" type="0x6401" name="Cầu Tre"/>-->
+    <!--<item lat="10.756508" lng="106.665421" type="0x3002" name="Phạm Ngọc Thạch"/>-->
+    <!--<item lat="10.756520" lng="106.676109" type="0x2f01" name="CO SO TOAN HUNG"/>-->
+    <!--<item lat="10.756561" lng="106.684959" type="0x3002" name="Báo Sai"/>-->
+    <!--<item lat="10.756600" lng="106.684967" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.756650" lng="106.717232" type="0x6404" name="BATNHA PAGODA"/>-->
+    <!--<item lat="10.756661" lng="106.717209" type="0x2d08" name="Chùa Bát Nhã"/>-->
+    <!--<item lat="10.756710" lng="106.622482" type="0x2f01" name="QUOC DUNG PRODUCTION TRADING CO./ LTD"/>-->
+    <!--<item lat="10.756806" lng="106.716942" type="0x2d08" name="Nguyên Hương Ni Tự"/>-->
+    <!--<item lat="10.756820" lng="106.716919" type="0x6404" name="CHUA NGUYEN HUONG"/>-->
+    <!--<item lat="10.756920" lng="106.659660" type="0x3002" name="CHO RAY HOSPITAL"/>-->
+    <!--<item lat="10.756920" lng="106.789513" type="0x2f17" name="Phà Cát Lái"/>-->
+    <!--<item lat="10.757120" lng="106.620659" type="0x2f01" name="DAI LY XANG DAU KIM QUE"/>-->
+    <!--<item lat="10.757140" lng="106.620789" type="0x2f01" name="DAI LY BAN LE XANG DAU KIM QUE"/>-->
+    <!--<item lat="10.757160" lng="106.678192" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.757180" lng="106.669273" type="0x2b01" name="MY TIEN HOTEL"/>-->
+    <!--<item lat="10.757180" lng="106.673431" type="0x2f06" name="NAMA BANK DIST 5"/>-->
+    <!--<item lat="10.757370" lng="106.673843" type="0x2f01" name="TRAM XANG DAU SO 94"/>-->
+    <!--<item lat="10.757370" lng="106.674500" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.757520" lng="106.674889" type="0x2f05" name="BUU DIEN THANH PHO"/>-->
+    <!--<item lat="10.757550" lng="106.606239" type="0x2f01" name="DAI LY BAN LE XANG DAU DNTN NGOC LONG"/>-->
+    <!--<item lat="10.757590" lng="106.684608" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.757700" lng="106.699913" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.757757" lng="106.659058" type="0x3002" name="Chợ Rẫy"/>-->
+    <!--<item lat="10.757780" lng="106.676949" type="0x6404" name="CHUA THIEN PHUOC TU"/>-->
+    <!--<item lat="10.757780" lng="106.692886" type="0x2f01" name="PETROLIMEX: TRAM XANG DAU PETROLIMEX"/>-->
+    <!--<item lat="10.757910" lng="106.707649" type="0x6404" name="CHUA VAN HANH"/>-->
+    <!--<item lat="10.758020" lng="106.686951" type="0x6404" name="CHAM TEMPLE"/>-->
+    <!--<item lat="10.758020" lng="106.693733" type="0x2f06" name="VIETINBANK CN"/>-->
+    <!--<item lat="10.758060" lng="106.607849" type="0x2f01" name="TRAM XANG DAU PHUOC TAN"/>-->
+    <!--<item lat="10.758080" lng="106.672180" type="0x2e00" name="ANDONG MARKET"/>-->
+    <!--<item lat="10.758080" lng="106.709732" type="0x6404" name="CHUA PHUOC DUYEN"/>-->
+    <!--<item lat="10.758130" lng="106.684952" type="0x6404" name="CHUA LONG AN"/>-->
+    <!--<item lat="10.758150" lng="106.607407" type="0x3003" name="UBND Bình Trị Đông"/>-->
+    <!--<item lat="10.758250" lng="106.661171" type="0x2f01" name="DNTN XANG DAU KIM QUY"/>-->
+    <!--<item lat="10.758342" lng="106.710747" type="0x2f05" name="Bưu Điện Xóm Chiếu"/>-->
+    <!--<item lat="10.758430" lng="106.701599" type="0x6404" name="CHUA NIET BAN"/>-->
+    <!--<item lat="10.758470" lng="106.704819" type="0x6404" name="CHUA PHUOC AN"/>-->
+    <!--<item lat="10.758490" lng="106.712051" type="0x6404" name="CHUA LUC TEMPLES"/>-->
+    <!--<item lat="10.758630" lng="106.687515" type="0x3001" name="Phòng CSQLHC về TTXH CATP"/>-->
+    <!--<item lat="10.758660" lng="106.647400" type="0x2f01" name="CONG TY CP THUONG NGHIEP BAC LIEU"/>-->
+    <!--<item lat="10.758880" lng="106.671501" type="0x2f01" name="CUA HANG XANG DAU SO 17"/>-->
+    <!--<item lat="10.758896" lng="106.673065" type="0x3002" name="Bệnh Viện 30/4"/>-->
+    <!--<item lat="10.758906" lng="106.700874" type="0x6411" name="TMT - Plaza"/>-->
+    <!--<item lat="10.758922" lng="106.714180" type="0x2c05" name="Đại học Văn Hoá Nghệ Thuật Quân Đội - Cơ sở 2"/>-->
+    <!--<item lat="10.758980" lng="106.634117" type="0x6401" name="Cầu Tân Hoá"/>-->
+    <!--<item lat="10.758980" lng="106.661301" type="0x2a07" name="JOLLIBEE"/>-->
+    <!--<item lat="10.759010" lng="106.709892" type="0x6404" name="CHUA THANH TUYEN"/>-->
+    <!--<item lat="10.759070" lng="106.701752" type="0x6404" name="CHUA TO DINH GIAC NGUYEN"/>-->
+    <!--<item lat="10.759110" lng="106.692070" type="0x2e00" name="CAU KHO MARKET"/>-->
+    <!--<item lat="10.759130" lng="106.709152" type="0x6404" name="CHUA KHANH LONG"/>-->
+    <!--<item lat="10.759200" lng="106.677612" type="0x3002" name="Nha Khoa Lê Hoàng"/>-->
+    <!--<item lat="10.759200" lng="106.700790" type="0x6404" name="CHUA GIAC QUANG"/>-->
+    <!--<item lat="10.759200" lng="106.708832" type="0x6404" name="CHUA PHUOC QUANG"/>-->
+    <!--<item lat="10.759333" lng="106.714508" type="0x650b" name="Cảng Nhà Rồng Khánh Hội"/>-->
+    <!--<item lat="10.759373" lng="106.688087" type="0x3001" name="CA phường Cầu Kho"/>-->
+    <!--<item lat="10.759373" lng="106.688103" type="0x3001" name="khongthudao"/>-->
+    <!--<item lat="10.759586" lng="106.668617" type="0x3002" name="Đa Khoa Vạn Xuân"/>-->
+    <!--<item lat="10.759610" lng="106.683746" type="0x2f01" name="Noname"/>-->
+    <!--<item lat="10.759630" lng="106.706429" type="0x6404" name="CHUALIENHOA"/>-->
+    <!--<item lat="10.759690" lng="106.706352" type="0x6404" name="CHUA LIEN HOA"/>-->
+    <!--<item lat="10.759710" lng="106.626587" type="0x2f01" name="TRAM XANG DAU 243 TAN HOA DONG"/>-->
+    <!--<item lat="10.759820" lng="106.712692" type="0x2f05" name="BUU DIEN TP.HCM"/>-->
+    <!--<item lat="10.759850" lng="106.713234" type="0x640d" name="Xí nghiệp Vận tải và Dịch vụ hàng hải Khánh Hội"/>-->
+    <!--<item lat="10.759937" lng="106.698784" type="0x6411" name="Cao ốc Saigon House"/>-->
+    <!--<item lat="10.759958" lng="106.699242" type="0x6405" name="Hoàng Diệu Office Building"/>-->
+    <!--<item lat="10.759970" lng="106.671562" type="0x2f06" name="EXIMBANK 1"/>-->
+    <!--<item lat="10.760080" lng="106.661011" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.760190" lng="106.696922" type="0x6404" name="CHUA TAM GIAO DIEN MINH TAM"/>-->
+    <!--<item lat="10.760234" lng="106.628731" type="0x6401" name="Cầu Dân Lập"/>-->
+    <!--<item lat="10.760290" lng="106.699280" type="0x2a00" name="HIGHLANDS COFFEE"/>-->
+    <!--<item lat="10.760380" lng="106.694069" type="0x6404" name="CHUA PHAP BUU TU"/>-->
+    <!--<item lat="10.760380" lng="106.698318" type="0x6404" name="CHUA LONG BUU"/>-->
+    <!--<item lat="10.760400" lng="106.676880" type="0x2f01" name="CUA HANG XANG DAU SO 46"/>-->
+    <!--<item lat="10.760408" lng="106.699318" type="0x6411" name="Cao ốc H3"/>-->
+    <!--<item lat="10.760951" lng="106.710106" type="0x2c05" name="Cao Đẳng Nguyễn Tất Thành"/>-->
+    <!--<item lat="10.760980" lng="106.700890" type="0x6404" name="CHUA KIM LIEN"/>-->
+    <!--<item lat="10.761020" lng="106.683243" type="0x2f01" name="SAIGON PETRO - CUA HANG XANG DAU SO 1"/>-->
+    <!--<item lat="10.761190" lng="106.675171" type="0x2f01" name="CUA HANG XANG DAU SO 32"/>-->
+    <!--<item lat="10.761220" lng="106.708382" type="0x6404" name="CONG LINH TU"/>-->
+    <!--<item lat="10.761441" lng="106.670174" type="0x3002" name="Mắt Việt Hàn"/>-->
+    <!--<item lat="10.761552" lng="106.695770" type="0x6411" name="Cao ốc Central Garden"/>-->
+    <!--<item lat="10.761670" lng="106.689629" type="0x2a07" name="G-BREAD"/>-->
+    <!--<item lat="10.761690" lng="106.701447" type="0x2c05" name="VAN DON SECONDARY SCHOOL"/>-->
+    <!--<item lat="10.761690" lng="106.701492" type="0x2f08" name=""/>-->
+    <!--<item lat="10.761694" lng="106.697815" type="0x3003" name="Hội Chữ Thập Đỏ Thành phố Hồ Chí Minh"/>-->
+    <!--<item lat="10.761710" lng="106.701523" type="0x2f06" name="TECHCOMBANK: ATM TECHCOMBANK"/>-->
+    <!--<item lat="10.761840" lng="106.689331" type="0x2a07" name="QUAN NHAT QUANG"/>-->
+    <!--<item lat="10.761950" lng="106.677330" type="0x6404" name="CHUA VAN THIEN"/>-->
+    <!--<item lat="10.762030" lng="106.692963" type="0x2b01" name="MISS LOI'S GUESTHOUSE"/>-->
+    <!--<item lat="10.762100" lng="106.702141" type="0x2c0b" name="VAN PH"/>-->
+    <!--<item lat="10.762120" lng="106.656700" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.762200" lng="106.694458" type="0x6404" name="CHUA LINH SON"/>-->
+    <!--<item lat="10.762220" lng="106.657181" type="0x2f01" name="STORE PETROLEUM NO.8"/>-->
+    <!--<item lat="10.762310" lng="106.701241" type="0x6404" name="BODE PAGODA"/>-->
+    <!--<item lat="10.762350" lng="106.702179" type="0x2e0c" name="KY HOA MOBILE PHONE"/>-->
+    <!--<item lat="10.762364" lng="106.705086" type="0x2d08" name="Chùa Tường Quan"/>-->
+    <!--<item lat="10.762370" lng="106.705139" type="0x6404" name="CHUA TUONG QUANG"/>-->
+    <!--<item lat="10.762440" lng="106.702248" type="0x2e05" name="SON LA PHARMACY"/>-->
+    <!--<item lat="10.762484" lng="106.693298" type="0x2c05" name="Trường Đại học Dân lập Văn Lang"/>-->
+    <!--<item lat="10.762500" lng="106.642151" type="0x2f01" name="TRAM XANG SO 16"/>-->
+    <!--<item lat="10.762500" lng="106.702309" type="0x2e0c" name="DUC TUAN MOBIFONE"/>-->
+    <!--<item lat="10.762650" lng="106.706749" type="0x6404" name="CHUA QUANG DUC"/>-->
+    <!--<item lat="10.762700" lng="106.702850" type="0x2e09" name="HOAI THU BLINDS"/>-->
+    <!--<item lat="10.762800" lng="106.702888" type="0x2e0c" name="DIEN THOAI DI DONG VIEN KIEU"/>-->
+    <!--<item lat="10.762910" lng="106.703148" type="0x2f12" name="TERMINAL INTERNET ACCESS"/>-->
+    <!--<item lat="10.763000" lng="106.674347" type="0x6404" name="BUU THANH PAGODA"/>-->
+    <!--<item lat="10.763060" lng="106.703400" type="0x2e0c" name="LE HUNG MOBILE PHONE"/>-->
+    <!--<item lat="10.763150" lng="106.707848" type="0x2e00" name="JEWELRY NO.4"/>-->
+    <!--<item lat="10.763190" lng="106.703133" type="0x6404" name="ANHLINH PAGODA"/>-->
+    <!--<item lat="10.763207" lng="106.693611" type="0x2c05" name="Trường THPT Lương Thế Vinh"/>-->
+    <!--<item lat="10.763210" lng="106.690422" type="0x2f01" name="CONG TY CP VAT TU XANG DAU (COMECO"/>-->
+    <!--<item lat="10.763270" lng="106.660057" type="0x2f01" name="CUA HANG XANG DAU SO 12 (COMECO"/>-->
+    <!--<item lat="10.763300" lng="106.688660" type="0x2f01" name="CONG TY XANG DAU BEN TRE"/>-->
+    <!--<item lat="10.763360" lng="106.679138" type="0x2b01" name="EQUATORIAL HOTEL"/>-->
+    <!--<item lat="10.763400" lng="106.703682" type="0x2e07" name="THIEN THAO WEDDING DRESS"/>-->
+    <!--<item lat="10.763430" lng="106.703728" type="0x2e0c" name="MAT K"/>-->
+    <!--<item lat="10.763451" lng="106.691818" type="0x3002" name="Răng Hàm Mặt"/>-->
+    <!--<item lat="10.763486" lng="106.698265" type="0x6401" name="Ông Lãnh"/>-->
+    <!--<item lat="10.763510" lng="106.706108" type="0x2e00" name="XOMCHIEU MARKET"/>-->
+    <!--<item lat="10.763550" lng="106.703979" type="0x2a07" name="MINH CHAU BURGER"/>-->
+    <!--<item lat="10.763700" lng="106.705193" type="0x2f10" name="BEAUTY SALON NHAT"/>-->
+    <!--<item lat="10.763730" lng="106.705452" type="0x2f06" name="NG"/>-->
+    <!--<item lat="10.763763" lng="106.706947" type="0x3003" name="Viện Kiểm Sát Nhân Dân Quận 4"/>-->
+    <!--<item lat="10.763770" lng="106.704262" type="0x2e05" name="HOANG DIEU PRIVATE PHARMACY"/>-->
+    <!--<item lat="10.763776" lng="106.703926" type="0x6411" name="Cao ốc Nam Việt"/>-->
+    <!--<item lat="10.763790" lng="106.705009" type="0x2f10" name="DINH KHAI HAIRDRESSER"/>-->
+    <!--<item lat="10.763810" lng="106.706299" type="0x2f06" name="NORTH ASIA BANK (BAC A"/>-->
+    <!--<item lat="10.763880" lng="106.704842" type="0x2a07" name="THUC AN DINH DUONG C"/>-->
+    <!--<item lat="10.763880" lng="106.706818" type="0x2e02" name="CUA H"/>-->
+    <!--<item lat="10.763940" lng="106.704483" type="0x2a07" name="B"/>-->
+    <!--<item lat="10.763940" lng="106.706039" type="0x2e0c" name="ANH KIEN HOUSEHOLD APPLIANCE"/>-->
+    <!--<item lat="10.763960" lng="106.705811" type="0x2a07" name="CUA H"/>-->
+    <!--<item lat="10.764030" lng="106.704582" type="0x2e0c" name="MAT K"/>-->
+    <!--<item lat="10.764090" lng="106.632332" type="0x2f01" name="TRAM XANG DAU 19/6"/>-->
+    <!--<item lat="10.764126" lng="106.691116" type="0x6411" name="Cao ốc Pha Lan"/>-->
+    <!--<item lat="10.764227" lng="106.700813" type="0x6405" name="Toà nhà Văn Phòng Nam Việt"/>-->
+    <!--<item lat="10.764245" lng="106.707474" type="0x2f05" name="Bưu cục NGuyễn Tất Thành"/>-->
+    <!--<item lat="10.764260" lng="106.707031" type="0x3002" name="TRUNG T"/>-->
+    <!--<item lat="10.764280" lng="106.707420" type="0x2f05" name="BUU DIEN TRUNG TAM SAI GON"/>-->
+    <!--<item lat="10.764282" lng="106.691307" type="0x2d00" name="Trung tâm văn hoá Hàn Quốc"/>-->
+    <!--<item lat="10.764300" lng="106.707031" type="0x2c05" name="TRUONG MAM NON SAO MAI 3"/>-->
+    <!--<item lat="10.764330" lng="106.676804" type="0x2e00" name="LEHONG PHONG MARKET"/>-->
+    <!--<item lat="10.764390" lng="106.707069" type="0x2e0c" name="SOUTH TRAVEL"/>-->
+    <!--<item lat="10.764410" lng="106.680359" type="0x2f05" name="POST OFFICE HUNG VUNG"/>-->
+    <!--<item lat="10.764410" lng="106.705658" type="0x2e05" name="PHARMACY NO. 1"/>-->
+    <!--<item lat="10.764430" lng="106.703552" type="0x2f06" name="NGAN HANG"/>-->
+    <!--<item lat="10.764461" lng="106.691368" type="0x2f11" name="Liên Đại Dương"/>-->
+    <!--<item lat="10.764480" lng="106.705872" type="0x2f06" name="NG"/>-->
+    <!--<item lat="10.764493" lng="106.692886" type="0x6411" name="Cao ốc 255"/>-->
+    <!--<item lat="10.764500" lng="106.632332" type="0x2f01" name="VAN PHUOC TRADING PTE."/>-->
+    <!--<item lat="10.764500" lng="106.687500" type="0x2e00" name="SUPERMARKET"/>-->
+    <!--<item lat="10.764500" lng="106.707123" type="0x2e0c" name="ANH SANG OPTICAL SHOP"/>-->
+    <!--<item lat="10.764540" lng="106.706062" type="0x2a07" name="CHU SE INSTANT NOODLE AND HU TIEU SHOP"/>-->
+    <!--<item lat="10.764560" lng="106.692139" type="0x2f01" name="STORE PETROLEUM NO.10"/>-->
+    <!--<item lat="10.764580" lng="106.618881" type="0x2f01" name="DAI LY XANG DAU LE TUAN"/>-->
+    <!--<item lat="10.764580" lng="106.703506" type="0x2f06" name="VIETINBANK DIST 4"/>-->
+    <!--<item lat="10.764580" lng="106.703880" type="0x2a0e" name="SPOTLIGHT CAFE"/>-->
+    <!--<item lat="10.764664" lng="106.705658" type="0x6411" name="Cao ốc Nam Phương"/>-->
+    <!--<item lat="10.764670" lng="106.706299" type="0x2e0c" name="PRUDENTIAL INSURANCE AGENT"/>-->
+    <!--<item lat="10.764780" lng="106.692459" type="0x2b01" name="METROPOLE METROPOLE"/>-->
+    <!--<item lat="10.764800" lng="106.703773" type="0x2e05" name="PHARMACY NO. 36"/>-->
+    <!--<item lat="10.764820" lng="106.650421" type="0x2f01" name="DAU TU PHAT TRIEN THIEN LOC J.S.C"/>-->
+    <!--<item lat="10.764820" lng="106.703491" type="0x2f05" name="BUU DIEN"/>-->
+    <!--<item lat="10.764820" lng="106.706772" type="0x2f06" name="VIET NAM T"/>-->
+    <!--<item lat="10.764864" lng="106.704895" type="0x3003" name="Uỷ ban MTTQ Quận 4"/>-->
+    <!--<item lat="10.764880" lng="106.687630" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.764880" lng="106.706940" type="0x2e0c" name="VIEN KIEU MOBILE PHONE SHOP"/>-->
+    <!--<item lat="10.764912" lng="106.690567" type="0x6405" name="Iwa Square office building"/>-->
+    <!--<item lat="10.764950" lng="106.687660" type="0x2f01" name="ANH KHOI CO./ LTD"/>-->
+    <!--<item lat="10.764990" lng="106.703362" type="0x2f05" name="DISTRICT 4 BRANCH POST OFFICE"/>-->
+    <!--<item lat="10.765080" lng="106.706642" type="0x2f06" name="ACB: ATM ACB"/>-->
+    <!--<item lat="10.765112" lng="106.692566" type="0x2d03" name="Rạp Hưng Đạo"/>-->
+    <!--<item lat="10.765190" lng="106.698959" type="0x6404" name="CHUA THIEN HAU"/>-->
+    <!--<item lat="10.765230" lng="106.659737" type="0x2f01" name="HIEP HUNG TRADING PTE."/>-->
+    <!--<item lat="10.765230" lng="106.703102" type="0x2c05" name="BACH DANG ELEMENTARY SCHOOL"/>-->
+    <!--<item lat="10.765270" lng="106.702873" type="0x2e02" name="FOCOMART"/>-->
+    <!--<item lat="10.765270" lng="106.707008" type="0x2f06" name="TECHCOMBANK: ATM TECHCOMBANK"/>-->
+    <!--<item lat="10.765270" lng="106.707092" type="0x2e0c" name="NGUYEN TAT THANH BOOKSTORE"/>-->
+    <!--<item lat="10.765399" lng="106.701233" type="0x6401" name="Calmette"/>-->
+    <!--<item lat="10.765407" lng="106.702095" type="0x3002" name="Bệnh viện quận 4"/>-->
+    <!--<item lat="10.765420" lng="106.702652" type="0x3002" name="TRUNG T"/>-->
+    <!--<item lat="10.765440" lng="106.642357" type="0x2f01" name="TRAM XANG DAU SO 16"/>-->
+    <!--<item lat="10.765490" lng="106.702606" type="0x3002" name="BENH VIEN QUAN 4"/>-->
+    <!--<item lat="10.765550" lng="106.664261" type="0x2f01" name="CUA HANG XANG DAU SO 2"/>-->
+    <!--<item lat="10.765550" lng="106.693581" type="0x2f06" name="VIETINBANK"/>-->
+    <!--<item lat="10.765640" lng="106.687592" type="0x6404" name="CHUA LAM TE"/>-->
+    <!--<item lat="10.765680" lng="106.702522" type="0x2f06" name="VIETINBANK: VIETINBANK"/>-->
+    <!--<item lat="10.765680" lng="106.706841" type="0x2b01" name="SAI GON PORT HOTEL"/>-->
+    <!--<item lat="10.765700" lng="106.706688" type="0x2b01" name="BEN CANG HOTEL"/>-->
+    <!--<item lat="10.765720" lng="106.682159" type="0x2f01" name="CONG TY CP KY THUAT TOKA"/>-->
+    <!--<item lat="10.765740" lng="106.707031" type="0x2e0c" name="Y THANG MOTOCYCLE REPAIR"/>-->
+    <!--<item lat="10.765790" lng="106.681862" type="0x2b00" name="EQUATORIAL HOTEL"/>-->
+    <!--<item lat="10.765870" lng="106.699501" type="0x2f01" name="TAN HONG MINH TRADING SERVICES CO./ LTD"/>-->
+    <!--<item lat="10.765910" lng="106.644852" type="0x2f01" name="CONG TY TNHH GIAI PHAP KY THUAT TAN LONG"/>-->
+    <!--<item lat="10.765940" lng="106.706749" type="0x2e0c" name=""/>-->
+    <!--<item lat="10.765942" lng="106.746124" type="0x3002" name=""/>-->
+    <!--<item lat="10.766000" lng="106.706940" type="0x2f01" name="PETROLIMEX: FUEL RETAILER AGENT - SHOP 7A"/>-->
+    <!--<item lat="10.766040" lng="106.664162" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.766070" lng="106.689590" type="0x2b01" name="HOTEL 127 MADAME CUC'S"/>-->
+    <!--<item lat="10.766170" lng="106.702606" type="0x2f06" name="VIETINBANK (VIETINBANK"/>-->
+    <!--<item lat="10.766190" lng="106.691353" type="0x2a07" name="SNACK CHEZ ALAIN RESTAURANT"/>-->
+    <!--<item lat="10.766190" lng="106.704796" type="0x3003" name="Kho bạc Nhà Nước Quận 4"/>-->
+    <!--<item lat="10.766253" lng="106.688751" type="0x2d01" name="Nhà Hát Thế Giới Trẻ"/>-->
+    <!--<item lat="10.766280" lng="106.639931" type="0x2c01" name="DAM SEN PARK"/>-->
+    <!--<item lat="10.766280" lng="106.705566" type="0x2f06" name="VIETCOMBANK CHI NH"/>-->
+    <!--<item lat="10.766300" lng="106.705658" type="0x2c0b" name="CH"/>-->
+    <!--<item lat="10.766300" lng="106.705795" type="0x3003" name="Chi cục Thuế Quận 4"/>-->
+    <!--<item lat="10.766358" lng="106.698441" type="0x2e02" name="Dân Sinh"/>-->
+    <!--<item lat="10.766410" lng="106.698380" type="0x6404" name="PHUNGSONTU"/>-->
+    <!--<item lat="10.766470" lng="106.653961" type="0x2f01" name="TM VINH KHANH PTE."/>-->
+    <!--<item lat="10.766490" lng="106.689392" type="0x2b01" name="HOTEL MC 184 MADAME CUC'S"/>-->
+    <!--<item lat="10.766540" lng="106.678810" type="0x2e00" name="SINH DOI RESTAURANT"/>-->
+    <!--<item lat="10.766540" lng="106.705963" type="0x640b" name="DOANH TRAI QUAN DOI VIET NAM"/>-->
+    <!--<item lat="10.766548" lng="106.706367" type="0x3003" name="Hội Đồng Nhân Dân Quận 4"/>-->
+    <!--<item lat="10.766600" lng="106.706352" type="0x2f06" name="EAST ASIA: EAST ASIA ATM"/>-->
+    <!--<item lat="10.766648" lng="106.660469" type="0x0d00" name="Trần Văn Kiều"/>-->
+    <!--<item lat="10.766680" lng="106.705856" type="0x3001" name="Công an Quận 4"/>-->
+    <!--<item lat="10.766710" lng="106.691170" type="0x2b01" name="HA VY"/>-->
+    <!--<item lat="10.766710" lng="106.698059" type="0x2e00" name="DANSINH MARKET"/>-->
+    <!--<item lat="10.766710" lng="106.706299" type="0x2f06" name="EASTERN BANK"/>-->
+    <!--<item lat="10.766730" lng="106.688858" type="0x2e00" name="THAI BINH MARKET"/>-->
+    <!--<item lat="10.766770" lng="106.653748" type="0x2a07" name="CHICKEN TOWN STORE"/>-->
+    <!--<item lat="10.766770" lng="106.706619" type="0x2f06" name="SACOMBANK: ATM SACOMBANK"/>-->
+    <!--<item lat="10.766820" lng="106.687866" type="0x2a07" name="DIJON"/>-->
+    <!--<item lat="10.766820" lng="106.695938" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.766833" lng="106.687508" type="0x2e04" name="Siêu Thị Hà Nội"/>-->
+    <!--<item lat="10.766880" lng="106.674553" type="0x2f01" name="TRAM XANG DAU COMECO 1"/>-->
+    <!--<item lat="10.766959" lng="106.688087" type="0x2d01" name="Nhà hát Giao hưởng và vũ kịch thành phố Hồ Chí inh"/>-->
+    <!--<item lat="10.766985" lng="106.685684" type="0x3002" name="Bệnh xá 264"/>-->
+    <!--<item lat="10.767050" lng="106.687248" type="0x2a07" name="RITA"/>-->
+    <!--<item lat="10.767100" lng="106.640770" type="0x2c01" name="DAM SEN PARK"/>-->
+    <!--<item lat="10.767160" lng="106.706367" type="0x2e0c" name="DAI L"/>-->
+    <!--<item lat="10.767180" lng="106.701073" type="0x2f06" name="NGANHANGCONGTHU"/>-->
+    <!--<item lat="10.767180" lng="106.706108" type="0x640b" name="BI"/>-->
+    <!--<item lat="10.767350" lng="106.693733" type="0x2b01" name="HOTEL 64 MADAME CUC'S"/>-->
+    <!--<item lat="10.767420" lng="106.674141" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.767570" lng="106.706223" type="0x2f06" name="TECHCOMBANK: ATM TECHCOMBANK"/>-->
+    <!--<item lat="10.767594" lng="106.687912" type="0x2c05" name="Trường Cao Đẳng Văn Hoá Nghệ Thuật"/>-->
+    <!--<item lat="10.767610" lng="106.688477" type="0x6411" name="Central Park - Office Building"/>-->
+    <!--<item lat="10.767618" lng="106.706329" type="0x650b" name="Cảng Saigon - Saigon Port"/>-->
+    <!--<item lat="10.767670" lng="106.674400" type="0x6406" name="Vòng xoay ngã 7"/>-->
+    <!--<item lat="10.767720" lng="106.676369" type="0x6404" name="CHUA DAI HANH"/>-->
+    <!--<item lat="10.767740" lng="106.695419" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.767740" lng="106.701492" type="0x2f06" name="AGRIBANK 1"/>-->
+    <!--<item lat="10.767763" lng="106.687675" type="0x6411" name="Cao ốc Cotec"/>-->
+    <!--<item lat="10.767850" lng="106.609398" type="0x2f01" name="TRAM XANG DAU BINH TAN"/>-->
+    <!--<item lat="10.767894" lng="106.700211" type="0x6405" name="Artex Saigon"/>-->
+    <!--<item lat="10.767910" lng="106.694839" type="0x2b01" name="LIEN HA"/>-->
+    <!--<item lat="10.767910" lng="106.701019" type="0x2f06" name="AGRIBANK Q1"/>-->
+    <!--<item lat="10.767970" lng="106.705643" type="0x2c05" name="UNIVERSITY OF LAW"/>-->
+    <!--<item lat="10.767981" lng="106.687737" type="0x6411" name="An Đinh Building"/>-->
+    <!--<item lat="10.768066" lng="106.687630" type="0x6411" name="Cao ốc Titan"/>-->
+    <!--<item lat="10.768080" lng="106.705589" type="0x2f06" name="AGRIBANK"/>-->
+    <!--<item lat="10.768092" lng="106.669586" type="0x3002" name="Nhi Đồng 1"/>-->
+    <!--<item lat="10.768092" lng="106.687584" type="0x6411" name="Cao ốc văn phòng Thiên Tân"/>-->
+    <!--<item lat="10.768100" lng="106.680229" type="0x2e00" name="BAN CO STORE"/>-->
+    <!--<item lat="10.768130" lng="106.667526" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.768210" lng="106.656517" type="0x2c08" name="STADIUM"/>-->
+    <!--<item lat="10.768210" lng="106.684158" type="0x2a07" name="BBQ CHICKEN RESTAURANT"/>-->
+    <!--<item lat="10.768230" lng="106.681129" type="0x6404" name="CHUA PHUOC HOA"/>-->
+    <!--<item lat="10.768232" lng="106.684998" type="0x3002" name="Từ Dũ"/>-->
+    <!--<item lat="10.768382" lng="106.686378" type="0x3002" name="Từ Dũ"/>-->
+    <!--<item lat="10.768420" lng="106.651222" type="0x2f01" name="XI NGHIEP BAN LE XANG DAU PETROLIMEX - XUONG SUA CHUA LAP DAT"/>-->
+    <!--<item lat="10.768530" lng="106.693039" type="0x2f12" name="WLAN MAI PHAI"/>-->
+    <!--<item lat="10.768680" lng="106.693489" type="0x2d02" name="ALLEZ BOO BAR"/>-->
+    <!--<item lat="10.768790" lng="106.694290" type="0x2f12" name="INTERNET SAO NAM"/>-->
+    <!--<item lat="10.768900" lng="106.693489" type="0x2b00" name="LIBERTY 3 HOTEL"/>-->
+    <!--<item lat="10.768920" lng="106.701393" type="0x2f06" name="NGAN HANG DAU TU"/>-->
+    <!--<item lat="10.768920" lng="106.703018" type="0x2f06" name="VIETINBANK 3"/>-->
+    <!--<item lat="10.768940" lng="106.679932" type="0x2e00" name="BANCO MARKET"/>-->
+    <!--<item lat="10.768962" lng="106.705605" type="0x6401" name="Khánh Hội"/>-->
+    <!--<item lat="10.768980" lng="106.694183" type="0x2b01" name="GIANT DRAGON"/>-->
+    <!--<item lat="10.769000" lng="106.681091" type="0x2e00" name="CUA HANG VINA GIAY"/>-->
+    <!--<item lat="10.769090" lng="106.694649" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.769090" lng="106.696602" type="0x2f01" name="TRAN THIEN TRADING SERVICES PTE."/>-->
+    <!--<item lat="10.769110" lng="106.681030" type="0x2e00" name="JEWELRY N3"/>-->
+    <!--<item lat="10.769122" lng="106.666168" type="0x6411" name="Hoàng Anh Gia Lai"/>-->
+    <!--<item lat="10.769156" lng="106.696152" type="0x6411" name="Savico Tower"/>-->
+    <!--<item lat="10.769160" lng="106.692719" type="0x4900" name="CITY PARK"/>-->
+    <!--<item lat="10.769180" lng="106.701599" type="0x2f06" name="SBV NGCONGTRU"/>-->
+    <!--<item lat="10.769260" lng="106.684929" type="0x2f06" name="ACB"/>-->
+    <!--<item lat="10.769280" lng="106.666389" type="0x2f01" name="HONG LY TRADING PTE."/>-->
+    <!--<item lat="10.769310" lng="106.683830" type="0x2f06" name="NGAN HANG PHAT TREN VA DAU TU"/>-->
+    <!--<item lat="10.769350" lng="106.681129" type="0x6404" name="CHUA KY VIEN TU"/>-->
+    <!--<item lat="10.769350" lng="106.703583" type="0x2f06" name="SBV HCM"/>-->
+    <!--<item lat="10.769450" lng="106.690720" type="0x2b00" name="TUONG HUY HOTEL"/>-->
+    <!--<item lat="10.769489" lng="106.671143" type="0x3002" name="Nhi Đồng 1"/>-->
+    <!--<item lat="10.769540" lng="106.704712" type="0x2f06" name="NGANHANGNHANUO1"/>-->
+    <!--<item lat="10.769610" lng="106.707909" type="0x6401" name="Hầm Thủ Thiêm"/>-->
+    <!--<item lat="10.769650" lng="106.681992" type="0x2f06" name="VIETINBANK HCM"/>-->
+    <!--<item lat="10.769670" lng="106.633667" type="0x2f01" name="TRAM XANG DAU DAM SEN"/>-->
+    <!--<item lat="10.769690" lng="106.702759" type="0x2f06" name="DONG A BANK"/>-->
+    <!--<item lat="10.769820" lng="106.705116" type="0x2f06" name="AGRIBANK"/>-->
+    <!--<item lat="10.769970" lng="106.682121" type="0x2a07" name="JOLLIBEE"/>-->
+    <!--<item lat="10.769990" lng="106.703468" type="0x2f06" name="SOUTHERN BANK"/>-->
+    <!--<item lat="10.770030" lng="106.703552" type="0x2f06" name="QUEDO BANK"/>-->
+    <!--<item lat="10.770063" lng="106.658394" type="0x3002" name="Trưng Vương"/>-->
+    <!--<item lat="10.770140" lng="106.702950" type="0x2f06" name="TECHCOMBANK"/>-->
+    <!--<item lat="10.770230" lng="106.693939" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.770250" lng="106.693962" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.770253" lng="106.695923" type="0x2c06" name="23 Tháng 9"/>-->
+    <!--<item lat="10.770400" lng="106.703300" type="0x2f06" name="VIETINBANK 2"/>-->
+    <!--<item lat="10.770550" lng="106.693748" type="0x2b00" name="LE DUY HOTEL"/>-->
+    <!--<item lat="10.770550" lng="106.698486" type="0x2f08" name="BUS STATION"/>-->
+    <!--<item lat="10.770550" lng="106.701561" type="0x2f06" name="VIETINBANK 1"/>-->
+    <!--<item lat="10.770680" lng="106.689346" type="0x2f01" name="TRAM XANG DAU SO 9"/>-->
+    <!--<item lat="10.770720" lng="106.692032" type="0x2e00" name="ZEN PLAZA"/>-->
+    <!--<item lat="10.770850" lng="106.673340" type="0x2f06" name="BIDV"/>-->
+    <!--<item lat="10.770890" lng="106.678413" type="0x6404" name="CHUAQUANGDUC"/>-->
+    <!--<item lat="10.770890" lng="106.681519" type="0x6404" name="CHUA TAM TONG MIEU"/>-->
+    <!--<item lat="10.770890" lng="106.693581" type="0x2f06" name="SOUTHERN BANK"/>-->
+    <!--<item lat="10.770890" lng="106.698318" type="0x2f17" name="BEN THANH"/>-->
+    <!--<item lat="10.770960" lng="106.694839" type="0x2b01" name="NEWWORLD HOTEL"/>-->
+    <!--<item lat="10.771040" lng="106.657921" type="0x2f01" name="CONG TY TNHH MTV HUYNH HIEU"/>-->
+    <!--<item lat="10.771040" lng="106.706413" type="0x2e0c" name="BAN VE TAU CANH NGAM"/>-->
+    <!--<item lat="10.771060" lng="106.693230" type="0x2b00" name="PHI VU HOTEL"/>-->
+    <!--<item lat="10.771060" lng="106.694092" type="0x2b00" name="MARRIOTT HOTEL"/>-->
+    <!--<item lat="10.771060" lng="106.695190" type="0x2b01" name="NEW WORLD"/>-->
+    <!--<item lat="10.771133" lng="106.704559" type="0x2f06" name="MHB Sai Gon"/>-->
+    <!--<item lat="10.771149" lng="106.665497" type="0x3003" name="Toàn án nhân dân Quận 10"/>-->
+    <!--<item lat="10.771150" lng="106.681648" type="0x6404" name="CHUA PHAT BUU TU"/>-->
+    <!--<item lat="10.771240" lng="106.658760" type="0x2f0b" name="HCMUT - Parking B1"/>-->
+    <!--<item lat="10.771249" lng="106.669991" type="0x3002" name="Đa Khoa Vạn Hạnh"/>-->
+    <!--<item lat="10.771340" lng="106.700363" type="0x2b01" name="HAI VAN HOTEL"/>-->
+    <!--<item lat="10.771410" lng="106.694946" type="0x2f01" name="STORE PETROLEUM NO.3: PETROLIMEX"/>-->
+    <!--<item lat="10.771510" lng="106.673019" type="0x6404" name="VIET NAM QUOC TU"/>-->
+    <!--<item lat="10.771560" lng="106.698448" type="0x2c00" name="TRAN NGUYEN HAN STATUE"/>-->
+    <!--<item lat="10.771710" lng="106.669701" type="0x2e00" name="X_LIGHT LIGHTING"/>-->
+    <!--<item lat="10.771710" lng="106.687500" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.771730" lng="106.706429" type="0x2e0c" name="SAI GON SPEEDBOAT TRAVEL AGENCY"/>-->
+    <!--<item lat="10.771743" lng="106.671387" type="0x3002" name="Vạn Hạnh"/>-->
+    <!--<item lat="10.771834" lng="106.670418" type="0x2f11" name="Công ty TMDV Kim Hoàn Mỹ"/>-->
+    <!--<item lat="10.771880" lng="106.657288" type="0x2a0e" name="QU"/>-->
+    <!--<item lat="10.771900" lng="106.692719" type="0x2b00" name="SAIGON ROYAL HOTEL"/>-->
+    <!--<item lat="10.771900" lng="106.697662" type="0x2a00" name="PHO 2000"/>-->
+    <!--<item lat="10.771900" lng="106.703751" type="0x2b01" name="TAN HAI LONG 3 HOTEL"/>-->
+    <!--<item lat="10.771920" lng="106.658562" type="0x2c05" name="HCMUT - Eletric"/>-->
+    <!--<item lat="10.771970" lng="106.706429" type="0x2e0c" name="T"/>-->
+    <!--<item lat="10.772030" lng="106.668602" type="0x2f01" name="NA NO INDUSTRY CO./ LTD"/>-->
+    <!--<item lat="10.772050" lng="106.671219" type="0x3002" name="HOSPITAL (HCMC"/>-->
+    <!--<item lat="10.772050" lng="106.701714" type="0x2a00" name="X CAFE"/>-->
+    <!--<item lat="10.772073" lng="106.665039" type="0x3001" name="Công an Quận 10"/>-->
+    <!--<item lat="10.772110" lng="106.673988" type="0x2d01" name="Hoà Bình"/>-->
+    <!--<item lat="10.772220" lng="106.706284" type="0x2c04" name="SAI GON PHOTO GALLERY"/>-->
+    <!--<item lat="10.772250" lng="106.686562" type="0x6404" name="CHUA QUAN THANH DE"/>-->
+    <!--<item lat="10.772270" lng="106.691711" type="0x2b00" name="RANG DONG HOTEL"/>-->
+    <!--<item lat="10.772310" lng="106.683960" type="0x2f06" name="NGAN HANG NHA NUOC"/>-->
+    <!--<item lat="10.772310" lng="106.698174" type="0x2e00" name="BENTHANH MARKET"/>-->
+    <!--<item lat="10.772330" lng="106.665192" type="0x2f01" name="TRAM XANG DAU NGUYEN TRI PHUONG - SO 56"/>-->
+    <!--<item lat="10.772700" lng="106.621742" type="0x2f01" name="TRAM XANG DAU TAN CANH 2"/>-->
+    <!--<item lat="10.772700" lng="106.686882" type="0x6404" name="CHUA THIEN BAN"/>-->
+    <!--<item lat="10.772700" lng="106.704819" type="0x2a07" name="AU TRESOR RESTAURANT"/>-->
+    <!--<item lat="10.772740" lng="106.684669" type="0x2e00" name="VUONCHUOI MARKET"/>-->
+    <!--<item lat="10.772870" lng="106.706284" type="0x2a00" name="RIVERSIDE SAIGON"/>-->
+    <!--<item lat="10.772910" lng="106.658211" type="0x2f0b" name="HCMUT - Parking B2"/>-->
+    <!--<item lat="10.772940" lng="106.667076" type="0x3002" name="Viện Tim Tp.hcm"/>-->
+    <!--<item lat="10.772970" lng="106.706284" type="0x2b01" name="MAJESTIC HOTEL"/>-->
+    <!--<item lat="10.773280" lng="106.659798" type="0x2c05" name="HCMUT - Hall A4"/>-->
+    <!--<item lat="10.773320" lng="106.685226" type="0x2e00" name="SIFA FASHION"/>-->
+    <!--<item lat="10.773351" lng="106.668526" type="0x2c05" name="Đại học Y khoa Phạm Ngọc Thạch"/>-->
+    <!--<item lat="10.773360" lng="106.706299" type="0x2a0e" name="CATINAT CLUB"/>-->
+    <!--<item lat="10.773383" lng="106.664459" type="0x3002" name="STO Phương Đông"/>-->
+    <!--<item lat="10.773404" lng="106.664719" type="0x3002" name="Viện Tim Tp.hcm"/>-->
+    <!--<item lat="10.773530" lng="106.646988" type="0x2f01" name="CUA HANG XANG DAU VEGESA"/>-->
+    <!--<item lat="10.773570" lng="106.700981" type="0x2b01" name="SEDONA SUITS HOTEL"/>-->
+    <!--<item lat="10.773570" lng="106.706352" type="0x2f06" name="EASTERN BANK"/>-->
+    <!--<item lat="10.773600" lng="106.689911" type="0x2e04" name="HOME CENTRE"/>-->
+    <!--<item lat="10.773620" lng="106.704132" type="0x2a07" name="WRAP &amp; ROLL"/>-->
+    <!--<item lat="10.773700" lng="106.621307" type="0x2f01" name="LONG TUNG PTE."/>-->
+    <!--<item lat="10.773700" lng="106.706322" type="0x2f06" name="SACOMBANK (SACOMBANK"/>-->
+    <!--<item lat="10.773730" lng="106.703262" type="0x6402" name="SUN WAH TOWER"/>-->
+    <!--<item lat="10.773784" lng="106.665390" type="0x3002" name="Nhân dân 115"/>-->
+    <!--<item lat="10.773799" lng="106.677704" type="0x3002" name="Ngã"/>-->
+    <!--<item lat="10.773810" lng="106.700958" type="0x2a00" name="HIGHLANDS COFFEESHOP"/>-->
+    <!--<item lat="10.773830" lng="106.700752" type="0x2f01" name="MITSUBISHI CORP."/>-->
+    <!--<item lat="10.773836" lng="106.677361" type="0x6411" name="Duy Tân"/>-->
+    <!--<item lat="10.773880" lng="106.701241" type="0x2a07" name="I LOVE BURGER"/>-->
+    <!--<item lat="10.773880" lng="106.706322" type="0x2a00" name="RIVERSIDE SAIGON"/>-->
+    <!--<item lat="10.773940" lng="106.699890" type="0x2a07" name="ARENA RESTAURANT"/>-->
+    <!--<item lat="10.773980" lng="106.620453" type="0x2f01" name="TRAM XANG DAU LONG TUNG"/>-->
+    <!--<item lat="10.774000" lng="106.706520" type="0x2f08" name=""/>-->
+    <!--<item lat="10.774220" lng="106.682663" type="0x2a07" name="OROLL RESTAURANT"/>-->
+    <!--<item lat="10.774226" lng="106.681030" type="0x3002" name="Bình Dân"/>-->
+    <!--<item lat="10.774458" lng="106.666542" type="0x3002" name="Bệnh viện 115"/>-->
+    <!--<item lat="10.774580" lng="106.706451" type="0x2b01" name="RENAISSANCE RIVERSIDE HOTEL SAIGON"/>-->
+    <!--<item lat="10.774630" lng="106.623222" type="0x2f01" name="DNTN XANG DAU TIEN PHAT"/>-->
+    <!--<item lat="10.774670" lng="106.686562" type="0x2b01" name=""/>-->
+    <!--<item lat="10.774730" lng="106.701149" type="0x2f01" name="VIET MINH PHAT TRADING SERVICES CO./ LTD"/>-->
+    <!--<item lat="10.774760" lng="106.706039" type="0x2f06" name="ANZ BANK (ANZ"/>-->
+    <!--<item lat="10.774840" lng="106.674690" type="0x2e00" name="KYHOA NIGH MARKET"/>-->
+    <!--<item lat="10.774869" lng="106.667503" type="0x3002" name="Bệnh viện 115"/>-->
+    <!--<item lat="10.774880" lng="106.685020" type="0x6404" name="CHUA PHAT DA"/>-->
+    <!--<item lat="10.774967" lng="106.674797" type="0x3003" name="Viện Khoa học phát triển nhân lực Quốc tế Sài Gòn"/>-->
+    <!--<item lat="10.774969" lng="106.681496" type="0x3002" name="Bình Dân"/>-->
+    <!--<item lat="10.775027" lng="106.702126" type="0x2e01" name="Tax"/>-->
+    <!--<item lat="10.775080" lng="106.656799" type="0x2f01" name="STORE PETROLEUM NO.11"/>-->
+    <!--<item lat="10.775210" lng="106.647659" type="0x2f01" name="TRAM XANG DAU LAN ANH"/>-->
+    <!--<item lat="10.775249" lng="106.706459" type="0x2c04" name="Tượng đài Trần Hưng Đạo"/>-->
+    <!--<item lat="10.775310" lng="106.704872" type="0x2f01" name="CONG TY CP TM DAI LY DAU TINH BA RIA VUNG TAU - CN"/>-->
+    <!--<item lat="10.775360" lng="106.706940" type="0x2f08" name=""/>-->
+    <!--<item lat="10.775420" lng="106.701370" type="0x2b01" name="REX HOTEL"/>-->
+    <!--<item lat="10.775434" lng="106.647598" type="0x3003" name="UBND P10 quận Tân Bình"/>-->
+    <!--<item lat="10.775530" lng="106.619461" type="0x2a07" name="CHICKEN TOWN STORE"/>-->
+    <!--<item lat="10.775570" lng="106.687309" type="0x2e00" name="SENORITA FASHION"/>-->
+    <!--<item lat="10.775720" lng="106.706749" type="0x2a0e" name="VUON KIENG COFFE"/>-->
+    <!--<item lat="10.775760" lng="106.690872" type="0x2b01" name="CHANLI SAI GON HOTEL"/>-->
+    <!--<item lat="10.775760" lng="106.702072" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.775830" lng="106.701408" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.775860" lng="106.702980" type="0x3002" name="Opera View"/>-->
+    <!--<item lat="10.775910" lng="106.682762" type="0x2f01" name="NGUYEN VAN QUANG TRADING PTE."/>-->
+    <!--<item lat="10.775910" lng="106.702499" type="0x2c00" name="SOLDIER'S MONUMENT"/>-->
+    <!--<item lat="10.775931" lng="106.663589" type="0x3002" name="Việt Sin"/>-->
+    <!--<item lat="10.776060" lng="106.703468" type="0x2b01" name="CARAVELLE HOTEL"/>-->
+    <!--<item lat="10.776110" lng="106.648941" type="0x2f01" name="TRAM XANG DAU NGHIA PHAT"/>-->
+    <!--<item lat="10.776240" lng="106.608429" type="0x2f01" name="TRAM XANG DAU THANH NGA"/>-->
+    <!--<item lat="10.776280" lng="106.608200" type="0x2f01" name="DAI LY XANG DAU THANH NGA"/>-->
+    <!--<item lat="10.776308" lng="106.699226" type="0x2c06" name="Bách Tùng Diệp"/>-->
+    <!--<item lat="10.776320" lng="106.703644" type="0x2b01" name="CARAVELLE HOTEL"/>-->
+    <!--<item lat="10.776370" lng="106.688080" type="0x2e00" name="D&amp;H FASHION"/>-->
+    <!--<item lat="10.776450" lng="106.680450" type="0x2e02" name="MAXI MART"/>-->
+    <!--<item lat="10.776490" lng="106.706619" type="0x640b" name="DOANH TRAI QUAN DOI VIET NAM"/>-->
+    <!--<item lat="10.776540" lng="106.686432" type="0x3002" name="Da Liễu"/>-->
+    <!--<item lat="10.776560" lng="106.699669" type="0x2c02" name="MILITARY MUSEUM"/>-->
+    <!--<item lat="10.776580" lng="106.703102" type="0x2d01" name="NHA HAT LON TP. HO CHI MINH"/>-->
+    <!--<item lat="10.776620" lng="106.691521" type="0x2f05" name="POST OF DIST 3"/>-->
+    <!--<item lat="10.776710" lng="106.683693" type="0x2f01" name="TRAM XANG DAU SO 13"/>-->
+    <!--<item lat="10.776790" lng="106.700851" type="0x3003" name="CITY HALL"/>-->
+    <!--<item lat="10.776860" lng="106.683472" type="0x2b00" name="NEW EPOCH HOTEL"/>-->
+    <!--<item lat="10.776940" lng="106.702606" type="0x2b00" name="CONTINENTAL HOTEL"/>-->
+    <!--<item lat="10.776970" lng="106.681000" type="0x2e02" name="3 THANG 2"/>-->
+    <!--<item lat="10.777050" lng="106.688812" type="0x2e00" name="OTC FASHION"/>-->
+    <!--<item lat="10.777072" lng="106.649338" type="0x2d08" name="Giác Lâm"/>-->
+    <!--<item lat="10.777075" lng="106.706696" type="0x2c02" name="Tôn Đức Thắng"/>-->
+    <!--<item lat="10.777120" lng="106.668930" type="0x3001" name=""/>-->
+    <!--<item lat="10.777140" lng="106.706688" type="0x2c02" name="TON DUC THANG MUSEUM"/>-->
+    <!--<item lat="10.777140" lng="106.706993" type="0x4e00" name="TOILETS"/>-->
+    <!--<item lat="10.777164" lng="106.695526" type="0x2c04" name="Dinh Thống Nhất"/>-->
+    <!--<item lat="10.777180" lng="106.702202" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.777270" lng="106.707008" type="0x2f08" name="BUS STATION"/>-->
+    <!--<item lat="10.777310" lng="106.702026" type="0x2b00" name="HUONG SEN HOTEL"/>-->
+    <!--<item lat="10.777400" lng="106.689178" type="0x2e00" name="MYHOME STORE"/>-->
+    <!--<item lat="10.777420" lng="106.681580" type="0x2f05" name="DANCHU SQUARE"/>-->
+    <!--<item lat="10.777500" lng="106.706863" type="0x2f06" name="D"/>-->
+    <!--<item lat="10.777570" lng="106.627892" type="0x2c05" name="PHAN CH"/>-->
+    <!--<item lat="10.777570" lng="106.628578" type="0x2f01" name="TRAM XANG DAU TAN CANH"/>-->
+    <!--<item lat="10.777570" lng="106.703453" type="0x2b01" name="PARK HYATT HOTEL"/>-->
+    <!--<item lat="10.777590" lng="106.707123" type="0x2f0b" name="B"/>-->
+    <!--<item lat="10.777609" lng="106.662422" type="0x3002" name="Bưu Điện 2"/>-->
+    <!--<item lat="10.777720" lng="106.689499" type="0x2e00" name="XINH FASHION"/>-->
+    <!--<item lat="10.777720" lng="106.698593" type="0x3003" name="Phòng công chứng số 1"/>-->
+    <!--<item lat="10.777800" lng="106.706619" type="0x2e0c" name="CUA H"/>-->
+    <!--<item lat="10.777820" lng="106.703842" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.777836" lng="106.681648" type="0x6406" name="Ngã 6 công trường dân chủ"/>-->
+    <!--<item lat="10.777890" lng="106.665489" type="0x2e04" name="BIG C"/>-->
+    <!--<item lat="10.777890" lng="106.665527" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.777910" lng="106.696922" type="0x2a00" name=""/>-->
+    <!--<item lat="10.778020" lng="106.690102" type="0x2b01" name="HOANG DE HOTEL"/>-->
+    <!--<item lat="10.778040" lng="106.686470" type="0x6404" name="XA LOI PAGODA"/>-->
+    <!--<item lat="10.778080" lng="106.696732" type="0x2a00" name=""/>-->
+    <!--<item lat="10.778176" lng="106.684418" type="0x3002" name="Bệnh viện Mắt"/>-->
+    <!--<item lat="10.778231" lng="106.665543" type="0x2e04" name="BigC Miền Đông"/>-->
+    <!--<item lat="10.778510" lng="106.702606" type="0x2a00" name="NAM PHAN DINING"/>-->
+    <!--<item lat="10.778570" lng="106.706902" type="0x2b01" name="LEGENT HOTEL"/>-->
+    <!--<item lat="10.778640" lng="106.682220" type="0x2c05" name="LE LOI"/>-->
+    <!--<item lat="10.778660" lng="106.673370" type="0x3001" name=""/>-->
+    <!--<item lat="10.778810" lng="106.707253" type="0x2f06" name="HSBC: HSBC ATM"/>-->
+    <!--<item lat="10.779090" lng="106.697327" type="0x2c06" name="30 Tháng 4"/>-->
+    <!--<item lat="10.779383" lng="106.698318" type="0x2c06" name="Cafe Bệt"/>-->
+    <!--<item lat="10.779410" lng="106.635452" type="0x2f01" name="BINH AN TRADING PTE."/>-->
+    <!--<item lat="10.779560" lng="106.678337" type="0x2f01" name="DAI LY XANG DAU K25"/>-->
+    <!--<item lat="10.779623" lng="106.699211" type="0x6404" name="Đức Bà"/>-->
+    <!--<item lat="10.779630" lng="106.622467" type="0x2f01" name="DAI LY BAN LE XANG DAU LOI PHAT"/>-->
+    <!--<item lat="10.779670" lng="106.703979" type="0x2a07" name="PIZZA HUT"/>-->
+    <!--<item lat="10.779730" lng="106.699112" type="0x6404" name="NOTRE DAME CATHEDRAL"/>-->
+    <!--<item lat="10.779800" lng="106.699051" type="0x2c0b" name="NHA THO DUC BA"/>-->
+    <!--<item lat="10.779820" lng="106.700058" type="0x2f05" name="CENTRAL POST OFFICE"/>-->
+    <!--<item lat="10.779820" lng="106.707611" type="0x2f08" name=""/>-->
+    <!--<item lat="10.779840" lng="106.621437" type="0x2f01" name="TRAM XANG TAN CANH"/>-->
+    <!--<item lat="10.779930" lng="106.697701" type="0x640e" name="PARK1"/>-->
+    <!--<item lat="10.780010" lng="106.699387" type="0x2f0b" name="PARKING"/>-->
+    <!--<item lat="10.780080" lng="106.677162" type="0x2e02" name=""/>-->
+    <!--<item lat="10.780080" lng="106.703941" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.780160" lng="106.682289" type="0x2d03" name="CINIMA BOX LY CHINH THANG"/>-->
+    <!--<item lat="10.780210" lng="106.626602" type="0x2f01" name="PHUOC NAM HAI TRADING CO./ LTD"/>-->
+    <!--<item lat="10.780210" lng="106.655487" type="0x2f01" name="DNTN XNK NAM DAO (QUANG NAM"/>-->
+    <!--<item lat="10.780230" lng="106.668510" type="0x2f01" name="TRAM XANG DAU SO 11"/>-->
+    <!--<item lat="10.780290" lng="106.707512" type="0x2f10" name="PAVEMENT HAIRDRESSER"/>-->
+    <!--<item lat="10.780330" lng="106.674820" type="0x6404" name="CHUA HOA BINH"/>-->
+    <!--<item lat="10.780440" lng="106.707520" type="0x2b01" name="MOONLIGHT HOTEL"/>-->
+    <!--<item lat="10.780508" lng="106.649010" type="0x2d08" name="Phật Bảo"/>-->
+    <!--<item lat="10.780550" lng="106.697632" type="0x2f0b" name="PLAZA PARKADE"/>-->
+    <!--<item lat="10.780550" lng="106.707253" type="0x2a00" name="SONG RESTAURANT"/>-->
+    <!--<item lat="10.780610" lng="106.707008" type="0x2b02" name="HAI QUAN GUEST HOUSE"/>-->
+    <!--<item lat="10.780700" lng="106.706711" type="0x2a00" name="HAI LUA SAI GON"/>-->
+    <!--<item lat="10.780720" lng="106.698471" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.780850" lng="106.674850" type="0x6404" name="BUU DA PAGODA"/>-->
+    <!--<item lat="10.780870" lng="106.692009" type="0x2f06" name="VCB"/>-->
+    <!--<item lat="10.780870" lng="106.698280" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.780910" lng="106.689934" type="0x2a0e" name="SOI DA"/>-->
+    <!--<item lat="10.780940" lng="106.706429" type="0x2a0e" name="COFFEE HOUSE"/>-->
+    <!--<item lat="10.780960" lng="106.698448" type="0x2e02" name=""/>-->
+    <!--<item lat="10.781000" lng="106.698486" type="0x2d03" name=""/>-->
+    <!--<item lat="10.781170" lng="106.689842" type="0x2a0e" name="ACOUSTIC"/>-->
+    <!--<item lat="10.781240" lng="106.698380" type="0x2f0b" name="PARKING"/>-->
+    <!--<item lat="10.781256" lng="106.697678" type="0x2d00" name="Nhà văn hóa Thanh Niên"/>-->
+    <!--<item lat="10.781280" lng="106.698509" type="0x2e00" name="DIAMOND PLAZA"/>-->
+    <!--<item lat="10.781410" lng="106.706108" type="0x2a0e" name="SAKURA COLOR COFFE"/>-->
+    <!--<item lat="10.781450" lng="106.655121" type="0x2f01" name="DAI LY BAN LE XANG DAU SAI GON PETRO"/>-->
+    <!--<item lat="10.781450" lng="106.692200" type="0x2f06" name="NGAN HANG VIET COBANK"/>-->
+    <!--<item lat="10.781510" lng="106.692612" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.781560" lng="106.705452" type="0x2f08" name=""/>-->
+    <!--<item lat="10.781580" lng="106.692352" type="0x2e02" name="CO.OP MART"/>-->
+    <!--<item lat="10.781640" lng="106.706993" type="0x2f06" name="MB: MB BANK ATM"/>-->
+    <!--<item lat="10.781658" lng="106.649948" type="0x6404" name="Tin lành Phú Thọ Hòa"/>-->
+    <!--<item lat="10.781770" lng="106.694740" type="0x2a07" name="JOLLIBEE FAST FOOD STORE"/>-->
+    <!--<item lat="10.781790" lng="106.676369" type="0x6404" name="CHUA VAN QUOC"/>-->
+    <!--<item lat="10.781790" lng="106.705681" type="0x2e0c" name="THAI EXPRESS"/>-->
+    <!--<item lat="10.781824" lng="106.674103" type="0x3002" name="Bệnh Viện Mắt Sài Gòn"/>-->
+    <!--<item lat="10.781900" lng="106.678787" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.781940" lng="106.678490" type="0x2f08" name="SAIGON RAILWAY STATION"/>-->
+    <!--<item lat="10.781940" lng="106.682159" type="0x3001" name=""/>-->
+    <!--<item lat="10.781940" lng="106.687950" type="0x2f06" name="NGAN HANG DAI LOAN"/>-->
+    <!--<item lat="10.781959" lng="106.660034" type="0x2d02" name="Art -nghệ thuật"/>-->
+    <!--<item lat="10.781983" lng="106.678230" type="0x2f08" name="Ga Sài Gòn"/>-->
+    <!--<item lat="10.781990" lng="106.705811" type="0x2a0e" name="VASTA CAFE RESTAURANT BUFFET"/>-->
+    <!--<item lat="10.782070" lng="106.628822" type="0x2f01" name="DAI LY BAN LE XANG DAU (PETROLIMEX"/>-->
+    <!--<item lat="10.782070" lng="106.628838" type="0x2a07" name="GA RAN KENTUCKY - KFC"/>-->
+    <!--<item lat="10.782160" lng="106.705940" type="0x2f06" name="BAO VIET BANK (BAO VIET"/>-->
+    <!--<item lat="10.782200" lng="106.677383" type="0x2e02" name="24/7"/>-->
+    <!--<item lat="10.782290" lng="106.705940" type="0x2a07" name="SUSHI BAR"/>-->
+    <!--<item lat="10.782330" lng="106.677437" type="0x4e00" name=""/>-->
+    <!--<item lat="10.782420" lng="106.677383" type="0x2a07" name="LOTTERIA HOA HUNG"/>-->
+    <!--<item lat="10.782440" lng="106.690720" type="0x2c05" name="MARIE CURIE"/>-->
+    <!--<item lat="10.782480" lng="106.676804" type="0x2e02" name="GA HOA HUNG"/>-->
+    <!--<item lat="10.782520" lng="106.676712" type="0x2a07" name="GA HOA HUNG"/>-->
+    <!--<item lat="10.782570" lng="106.677063" type="0x2a0e" name="TRUNG NGUYEN"/>-->
+    <!--<item lat="10.782595" lng="106.695862" type="0x2c04" name="Hồ Con Rùa"/>-->
+    <!--<item lat="10.782610" lng="106.628387" type="0x2e02" name="CHO T"/>-->
+    <!--<item lat="10.782630" lng="106.676537" type="0x4e00" name=""/>-->
+    <!--<item lat="10.782670" lng="106.673729" type="0x6404" name="CHUA TRUNG HOA"/>-->
+    <!--<item lat="10.782740" lng="106.701202" type="0x6402" name="SAIGON TOWER"/>-->
+    <!--<item lat="10.782780" lng="106.677650" type="0x2f0b" name="BAI GIU XE MAY"/>-->
+    <!--<item lat="10.782950" lng="106.627182" type="0x2c0b" name="NH"/>-->
+    <!--<item lat="10.782950" lng="106.696259" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.783060" lng="106.688530" type="0x2f05" name="BUU DIEN HE MAT TU XUONG"/>-->
+    <!--<item lat="10.783120" lng="106.706619" type="0x2c05" name="KINDERGARTEN EDUCATION FACULTY - SAI GON UNIVERSITY"/>-->
+    <!--<item lat="10.783270" lng="106.695618" type="0x2a0e" name="GIO BAC"/>-->
+    <!--<item lat="10.783360" lng="106.654419" type="0x2f01" name="STORE PETROLEUM - BRANCH NO.9"/>-->
+    <!--<item lat="10.783420" lng="106.697098" type="0x2f06" name="MHB"/>-->
+    <!--<item lat="10.783448" lng="106.637550" type="0x3003" name="UBND Quận Tân Phú"/>-->
+    <!--<item lat="10.798266" lng="106.631447" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.783638" lng="106.649864" type="0x2d08" name="Chùa Liễu Quán"/>-->
+    <!--<item lat="10.783640" lng="106.695213" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.785145" lng="106.636299" type="0x2a07" name="Lotteria"/>-->
+    <!--<item lat="10.783938" lng="106.687759" type="0x2c02" name="Phụ nữ Nam Bộ"/>-->
+    <!--<item lat="10.783960" lng="106.682312" type="0x6404" name="CHUA MINH DAO"/>-->
+    <!--<item lat="10.783960" lng="106.707314" type="0x2c05" name="SA PA KINDERGARTEN"/>-->
+    <!--<item lat="10.784000" lng="106.684349" type="0x2e04" name="SHOPPING CENTRE"/>-->
+    <!--<item lat="10.784020" lng="106.702591" type="0x2b01" name="SOFITEL PLAZA HOTEL"/>-->
+    <!--<item lat="10.784070" lng="106.622398" type="0x2f01" name="PHAM THI NGA PTE."/>-->
+    <!--<item lat="10.784070" lng="106.703621" type="0x2c00" name="TRADE CENTER"/>-->
+    <!--<item lat="10.784090" lng="106.622383" type="0x2f01" name="TRAM XANG DAU TAN PHU"/>-->
+    <!--<item lat="10.784244" lng="106.694290" type="0x2f11" name="APL Việt Nam"/>-->
+    <!--<item lat="10.784280" lng="106.682716" type="0x2b01" name="KY DONG HOTEL"/>-->
+    <!--<item lat="10.784330" lng="106.683990" type="0x3002" name="TAI-MUI-HONG"/>-->
+    <!--<item lat="10.784350" lng="106.695923" type="0x2b01" name="QUE HUONG HOTEL"/>-->
+    <!--<item lat="10.784390" lng="106.617378" type="0x2f01" name="TU VAN XD VA TM VIET TAN J.S.C"/>-->
+    <!--<item lat="10.784403" lng="106.684151" type="0x3002" name="Tai Mũi Họng"/>-->
+    <!--<item lat="10.784520" lng="106.707764" type="0x2c05" name="HOA LU KINDERGARTEN"/>-->
+    <!--<item lat="10.784540" lng="106.708214" type="0x2b02" name="NH"/>-->
+    <!--<item lat="10.784602" lng="106.683929" type="0x3002" name="Bệnh viện quận 3"/>-->
+    <!--<item lat="10.784630" lng="106.707848" type="0x2c02" name="BAO T"/>-->
+    <!--<item lat="10.784780" lng="106.707718" type="0x2c02" name="MUSEUM OF VIETNAMSE HISTORY"/>-->
+    <!--<item lat="10.784800" lng="106.684158" type="0x3002" name="DISTRICT 3"/>-->
+    <!--<item lat="10.784840" lng="106.636436" type="0x2f01" name="CUA HANG XANG DAU 49"/>-->
+    <!--<item lat="10.784882" lng="106.683350" type="0x3002" name="Hoàn Mỹ 1"/>-->
+    <!--<item lat="10.785024" lng="106.690933" type="0x3002" name="Đa Khoa Hồng Đức"/>-->
+    <!--<item lat="10.785050" lng="106.683281" type="0x3002" name="HOAN MY"/>-->
+    <!--<item lat="10.785210" lng="106.708382" type="0x4e00" name="DISTRICT 1 PUBLIC AMENITY COMPANY"/>-->
+    <!--<item lat="10.785270" lng="106.692230" type="0x2b01" name="BEN NGHE HOTEL"/>-->
+    <!--<item lat="10.785360" lng="106.675209" type="0x6404" name="CHUABATNHA"/>-->
+    <!--<item lat="10.785424" lng="106.687363" type="0x3002" name="Vien Sinh hoc nhiet doi"/>-->
+    <!--<item lat="10.785480" lng="106.679970" type="0x6404" name="CHUA HAI HUE"/>-->
+    <!--<item lat="10.785630" lng="106.650017" type="0x2f01" name="NGAN HUY CO./ LTD"/>-->
+    <!--<item lat="10.785810" lng="106.698578" type="0x2a13" name="HOA VI"/>-->
+    <!--<item lat="10.785825" lng="106.687759" type="0x3002" name="BV Y hoc co truyen"/>-->
+    <!--<item lat="10.785830" lng="106.702675" type="0x2c05" name="Đại học KHXH"/>-->
+    <!--<item lat="10.785960" lng="106.690170" type="0x2f01" name="CUA HANG XANG DAU"/>-->
+    <!--<item lat="10.785972" lng="106.687737" type="0x3002" name="Y học Cổ Truyền"/>-->
+    <!--<item lat="10.786000" lng="106.622551" type="0x2f01" name="THINH PHU TRADING PTE."/>-->
+    <!--<item lat="10.786110" lng="106.680420" type="0x2f06" name="VIETINBANK DIST 3"/>-->
+    <!--<item lat="10.786136" lng="106.688110" type="0x3002" name="Việt Pasteur"/>-->
+    <!--<item lat="10.786190" lng="106.622131" type="0x2f01" name="TRAM XANG DAU THINH PHU"/>-->
+    <!--<item lat="10.786214" lng="106.632576" type="0x0d00" name="Vườn Lài"/>-->
+    <!--<item lat="10.786236" lng="106.665367" type="0x2c06" name="Lê Thị Riêng"/>-->
+    <!--<item lat="10.786240" lng="106.682907" type="0x6404" name="CHAN TU VANG SAY"/>-->
+    <!--<item lat="10.786320" lng="106.679802" type="0x2e00" name="NGUYENVANTROI MARKET"/>-->
+    <!--<item lat="10.786320" lng="106.701561" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.786390" lng="106.681450" type="0x6404" name="CHUA PHAP HOA"/>-->
+    <!--<item lat="10.786447" lng="106.673027" type="0x6404" name="An Phú"/>-->
+    <!--<item lat="10.786450" lng="106.704971" type="0x6402" name="PETRO-VIETNAM TOWER"/>-->
+    <!--<item lat="10.786510" lng="106.665710" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.786660" lng="106.687569" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.786742" lng="106.622108" type="0x2c05" name="Cao đẳng nghề giao thông vận tải TW3"/>-->
+    <!--<item lat="10.786810" lng="106.688713" type="0x3002" name="Vien Pasteur"/>-->
+    <!--<item lat="10.786892" lng="106.704315" type="0x2c02" name="Chiến dịch Hồ Chí Minh"/>-->
+    <!--<item lat="10.786920" lng="106.677643" type="0x2b01" name="AMARA HOTEL"/>-->
+    <!--<item lat="10.786960" lng="106.636841" type="0x2f01" name="TRAM XANG DAU 1"/>-->
+    <!--<item lat="10.787050" lng="106.686653" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.787110" lng="106.691353" type="0x2f01" name="STORE PETROLEUM 93"/>-->
+    <!--<item lat="10.787200" lng="106.685081" type="0x2b01" name="DA LY HUONG HOTEL"/>-->
+    <!--<item lat="10.787339" lng="106.705193" type="0x2c01" name="Thảo cầm viên Sài Gòn"/>-->
+    <!--<item lat="10.787461" lng="106.693108" type="0x2c06" name="Lê Văn Tám"/>-->
+    <!--<item lat="10.787610" lng="106.678299" type="0x2f01" name="STORE PETROLEUM NO.7"/>-->
+    <!--<item lat="10.787820" lng="106.697533" type="0x2c05" name="TRAN VAN ON - ELEMENTARY SCHOOL"/>-->
+    <!--<item lat="10.787970" lng="106.685471" type="0x2b01" name="VIETMY SCHOOL"/>-->
+    <!--<item lat="10.787990" lng="106.678749" type="0x6404" name="CHUA PHAP VAN"/>-->
+    <!--<item lat="10.788210" lng="106.687698" type="0x6404" name="CHUAVANTHIEN"/>-->
+    <!--<item lat="10.788270" lng="106.686989" type="0x6404" name="CHUA HUE DANG"/>-->
+    <!--<item lat="10.788380" lng="106.685852" type="0x2f06" name="SACOMBANK"/>-->
+    <!--<item lat="10.788400" lng="106.661911" type="0x2a07" name="QUAN LOTTERIA"/>-->
+    <!--<item lat="10.788680" lng="106.677139" type="0x6404" name="CHUA LONG VINH"/>-->
+    <!--<item lat="10.788850" lng="106.676033" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.789024" lng="106.708534" type="0x0d00" name="Nguyễn Ngọc Phương"/>-->
+    <!--<item lat="10.789050" lng="106.679138" type="0x6404" name="CHUA KHU 4"/>-->
+    <!--<item lat="10.789050" lng="106.709969" type="0x2e0c" name="DU LICH H"/>-->
+    <!--<item lat="10.789150" lng="106.652771" type="0x2f01" name="CUA HANG TOAN THANG"/>-->
+    <!--<item lat="10.789370" lng="106.675529" type="0x2f05" name="DISTRICT 3 POST OFFICE"/>-->
+    <!--<item lat="10.789390" lng="106.672119" type="0x2e00" name="BUI PHAT MARKET"/>-->
+    <!--<item lat="10.789390" lng="106.679970" type="0x6404" name="CHUA VINH PHUOC"/>-->
+    <!--<item lat="10.789430" lng="106.711212" type="0x2d09" name="HAI QUAN"/>-->
+    <!--<item lat="10.789500" lng="106.673790" type="0x2f06" name="AGRIBANK DIST 3"/>-->
+    <!--<item lat="10.789500" lng="106.711151" type="0x2a00" name="BO SONG RESTAURANT"/>-->
+    <!--<item lat="10.789560" lng="106.640343" type="0x2f01" name="TRAM XANG DAU 7/3"/>-->
+    <!--<item lat="10.789580" lng="106.652397" type="0x2f01" name="CUA HANG XANG DAU SO 10"/>-->
+    <!--<item lat="10.789620" lng="106.710739" type="0x2a07" name="CH"/>-->
+    <!--<item lat="10.789630" lng="106.698166" type="0x2c05" name="Đinh Tiên Hoàng"/>-->
+    <!--<item lat="10.789840" lng="106.710831" type="0x2f06" name="AGRIBANK"/>-->
+    <!--<item lat="10.789900" lng="106.711212" type="0x2e0c" name="DAI L"/>-->
+    <!--<item lat="10.789900" lng="106.713959" type="0x6404" name="CHUA LO THIEN"/>-->
+    <!--<item lat="10.789950" lng="106.690002" type="0x2e00" name="CHO TAN DINH MARKET"/>-->
+    <!--<item lat="10.790099" lng="106.709198" type="0x2c05" name="tiểu học Thạnh Mỹ Tây"/>-->
+    <!--<item lat="10.790160" lng="106.677330" type="0x6404" name="CHUA TICH CA"/>-->
+    <!--<item lat="10.790180" lng="106.710854" type="0x2e05" name="HIEU THUOC SO 48"/>-->
+    <!--<item lat="10.790200" lng="106.710312" type="0x3002" name="B"/>-->
+    <!--<item lat="10.790290" lng="106.687553" type="0x2f06" name="NGAN HANG QUAN LY"/>-->
+    <!--<item lat="10.790330" lng="106.682289" type="0x6404" name="VINH NGHIEM PAGODA"/>-->
+    <!--<item lat="10.790562" lng="106.708603" type="0x5300" name="nhà dòng Notre Dame des missions"/>-->
+    <!--<item lat="10.790570" lng="106.676590" type="0x6404" name="CHUAPHUTHANH"/>-->
+    <!--<item lat="10.790570" lng="106.694221" type="0x2f01" name="CONG TY TNHH MTV CHE BIEN KD SAN PHAM DAU MO"/>-->
+    <!--<item lat="10.790647" lng="106.708603" type="0x2c05" name="mầm non 19"/>-->
+    <!--<item lat="10.790794" lng="106.710419" type="0x0d00" name="Phạm Viết Chánh/ lô D"/>-->
+    <!--<item lat="10.790810" lng="106.676689" type="0x6404" name="CHUA PHU THANH"/>-->
+    <!--<item lat="10.790830" lng="106.672737" type="0x3001" name=""/>-->
+    <!--<item lat="10.790930" lng="106.672569" type="0x2f17" name=""/>-->
+    <!--<item lat="10.790994" lng="106.691437" type="0x2c05" name="tiểu học Đuốc Sống/ cơ sở 1"/>-->
+    <!--<item lat="10.791110" lng="106.642868" type="0x2c06" name="Bàu Cát"/>-->
+    <!--<item lat="10.791171" lng="106.678131" type="0x3002" name="An Sinh"/>-->
+    <!--<item lat="10.791210" lng="106.680023" type="0x6404" name="CHUAPHAPHOA"/>-->
+    <!--<item lat="10.791280" lng="106.680206" type="0x6404" name="CHUA PHO THANH"/>-->
+    <!--<item lat="10.791390" lng="106.678169" type="0x4b00" name="AN SHIN PRIVATE HOSPITAL"/>-->
+    <!--<item lat="10.791640" lng="106.671730" type="0x2e05" name=""/>-->
+    <!--<item lat="10.791674" lng="106.652954" type="0x3002" name="Thống Nhất"/>-->
+    <!--<item lat="10.791730" lng="106.605392" type="0x2f01" name="TRAM XANG TAN UYEN"/>-->
+    <!--<item lat="10.791730" lng="106.671021" type="0x2a0e" name=""/>-->
+    <!--<item lat="10.791730" lng="106.691147" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.791790" lng="106.671951" type="0x2a00" name=""/>-->
+    <!--<item lat="10.791940" lng="106.707512" type="0x2e00" name="THINGHE MARKET"/>-->
+    <!--<item lat="10.791990" lng="106.677780" type="0x2e02" name=""/>-->
+    <!--<item lat="10.792027" lng="106.709038" type="0x3001" name="Công an phường 19/ quận Bình Thạnh"/>-->
+    <!--<item lat="10.792101" lng="106.708038" type="0x2e02" name="Thị Nghè"/>-->
+    <!--<item lat="10.792110" lng="106.671562" type="0x2a0e" name=""/>-->
+    <!--<item lat="10.792140" lng="106.712852" type="0x2a0e" name="TRUNG NGUYEN CAFE"/>-->
+    <!--<item lat="10.792160" lng="106.671051" type="0x2a00" name=""/>-->
+    <!--<item lat="10.792260" lng="106.709091" type="0x2a07" name="H"/>-->
+    <!--<item lat="10.792260" lng="106.713959" type="0x6404" name="CHUA VAN THANH"/>-->
+    <!--<item lat="10.792350" lng="106.679520" type="0x2a00" name=""/>-->
+    <!--<item lat="10.792359" lng="106.654114" type="0x3002" name="Thống Nhất - cổng xe máy"/>-->
+    <!--<item lat="10.792365" lng="106.712547" type="0x2c05" name="phổ thông cơ sở Phú Mỹ"/>-->
+    <!--<item lat="10.792375" lng="106.712372" type="0x2f06" name="ACB"/>-->
+    <!--<item lat="10.792396" lng="106.708336" type="0x2e05" name="Lan Anh"/>-->
+    <!--<item lat="10.792470" lng="106.686150" type="0x6401" name="Kiệu"/>-->
+    <!--<item lat="10.792590" lng="106.675812" type="0x2a0e" name="DU MIEN"/>-->
+    <!--<item lat="10.792739" lng="106.653969" type="0x2c05" name="Trường PTTH Nguyễn Thượng Hiền"/>-->
+    <!--<item lat="10.792797" lng="106.707115" type="0x2f05" name="Thị Nghè"/>-->
+    <!--<item lat="10.792820" lng="106.707199" type="0x2f05" name="BUUDIEN1"/>-->
+    <!--<item lat="10.792828" lng="106.709290" type="0x2c05" name="Trường khiếm thị Hy vọng"/>-->
+    <!--<item lat="10.792891" lng="106.653442" type="0x6406" name="Ngã Tư Bảy Hiền"/>-->
+    <!--<item lat="10.792910" lng="106.679764" type="0x2a0e" name=""/>-->
+    <!--<item lat="10.792970" lng="106.670441" type="0x3002" name=""/>-->
+    <!--<item lat="10.792990" lng="106.679970" type="0x2f06" name="NGAN HANG SOUTHERN BANK"/>-->
+    <!--<item lat="10.793320" lng="106.640060" type="0x2f01" name="DAI LY BAN LE XANG DAU PHU HOANG"/>-->
+    <!--<item lat="10.793400" lng="106.679871" type="0x2f01" name="CONG TY TNHH SX TM BIEN XANH: PETROLIMEX"/>-->
+    <!--<item lat="10.793510" lng="106.678726" type="0x2e00" name="FURNITURE STORE"/>-->
+    <!--<item lat="10.793510" lng="106.680099" type="0x2b01" name="SAIGON HOTEL"/>-->
+    <!--<item lat="10.793587" lng="106.708046" type="0x2f06" name="Sacombank"/>-->
+    <!--<item lat="10.793619" lng="106.708412" type="0x2f06" name="Incombank Thị Nghè"/>-->
+    <!--<item lat="10.793680" lng="106.651756" type="0x2f01" name="CONG TY CP VAN TAI XD COMECO - CN SO 7"/>-->
+    <!--<item lat="10.793680" lng="106.652000" type="0x2f01" name="STORE PETROLEUM 74"/>-->
+    <!--<item lat="10.793680" lng="106.668839" type="0x2f05" name="BUUDIEN"/>-->
+    <!--<item lat="10.793692" lng="106.708496" type="0x6404" name="Thị Nghè"/>-->
+    <!--<item lat="10.793735" lng="106.708244" type="0x2f06" name="Eximbank Thị Nghè"/>-->
+    <!--<item lat="10.793745" lng="106.708191" type="0x2e06" name="Shop"/>-->
+    <!--<item lat="10.793790" lng="106.710533" type="0x2c05" name="TRUNG T"/>-->
+    <!--<item lat="10.793830" lng="106.673080" type="0x6404" name="CHUA QUANG MINH"/>-->
+    <!--<item lat="10.794090" lng="106.708992" type="0x2f06" name="NGAN HANG NAM A"/>-->
+    <!--<item lat="10.794220" lng="106.682999" type="0x2e00" name="PHU NHUAN MARKET"/>-->
+    <!--<item lat="10.794283" lng="106.709801" type="0x3003" name="UBND phường 21/ quận Bình Thạnh"/>-->
+    <!--<item lat="10.794480" lng="106.655067" type="0x3002" name="Tân Bình"/>-->
+    <!--<item lat="10.794520" lng="106.629143" type="0x2f01" name="DAI LY XANG DAU HIEU HIEN"/>-->
+    <!--<item lat="10.794520" lng="106.653503" type="0x6600" name="Nhà thi đấu Q.Tân Bình"/>-->
+    <!--<item lat="10.794580" lng="106.677254" type="0x2f06" name="DONG A BANK 2"/>-->
+    <!--<item lat="10.794690" lng="106.614609" type="0x2f01" name="DNTN XANG DAU BINH LONG"/>-->
+    <!--<item lat="10.794690" lng="106.702271" type="0x2e00" name="THANHMY MARKET"/>-->
+    <!--<item lat="10.794750" lng="106.638611" type="0x2f01" name="CONG TY XANG DAU QUAN DOI"/>-->
+    <!--<item lat="10.794750" lng="106.680832" type="0x6404" name="CHUA PHU LONG"/>-->
+    <!--<item lat="10.794852" lng="106.709251" type="0x2f06" name="MH Bank"/>-->
+    <!--<item lat="10.794886" lng="106.654755" type="0x6600" name="TT. triển lãm Q.Tân Bình"/>-->
+    <!--<item lat="10.794984" lng="106.659676" type="0x3003" name="Phòng công chứng số 4"/>-->
+    <!--<item lat="10.794990" lng="106.713303" type="0x6404" name="CHAU LAM PAGODA"/>-->
+    <!--<item lat="10.795050" lng="106.709763" type="0x2f08" name=""/>-->
+    <!--<item lat="10.795126" lng="106.709831" type="0x2e04" name="Siêu thị điện máy"/>-->
+    <!--<item lat="10.795221" lng="106.666756" type="0x2a02" name="Hủ Tiếu Tí Lun"/>-->
+    <!--<item lat="10.795221" lng="106.667229" type="0x2a11" name="Quán Hương Cau"/>-->
+    <!--<item lat="10.795310" lng="106.672310" type="0x2f06" name="NGAN HANG VINA FIS"/>-->
+    <!--<item lat="10.795350" lng="106.696320" type="0x2f06" name="SCB"/>-->
+    <!--<item lat="10.795630" lng="106.680740" type="0x6404" name="CHUA LINH QUANG"/>-->
+    <!--<item lat="10.795700" lng="106.693321" type="0x6404" name="CHUATHIENTINH"/>-->
+    <!--<item lat="10.795780" lng="106.674911" type="0x2e00" name="HACHI HACHI"/>-->
+    <!--<item lat="10.795930" lng="106.682159" type="0x2f06" name="VIETINBANK 6"/>-->
+    <!--<item lat="10.795930" lng="106.687851" type="0x2d09" name=""/>-->
+    <!--<item lat="10.795960" lng="106.687592" type="0x2d0a" name="RACH MIEU SPORTS FACILITY"/>-->
+    <!--<item lat="10.796040" lng="106.689522" type="0x6404" name="CHUA KIEU DAM"/>-->
+    <!--<item lat="10.796110" lng="106.688812" type="0x6404" name="CHUA QUAN AM TU VIEN"/>-->
+    <!--<item lat="10.796170" lng="106.673080" type="0x2b01" name="OMNI HOTEL"/>-->
+    <!--<item lat="10.796190" lng="106.719238" type="0x2f01" name="TRAM XANG DAU HOANG NGUYEN"/>-->
+    <!--<item lat="10.796280" lng="106.681351" type="0x2f05" name="PHU NHUAN POST OFFICE"/>-->
+    <!--<item lat="10.796300" lng="106.687157" type="0x2c08" name=""/>-->
+    <!--<item lat="10.796410" lng="106.674423" type="0x2f06" name="VIETINBANK 4"/>-->
+    <!--<item lat="10.796410" lng="106.712723" type="0x6404" name="CHUA LINH SON TU"/>-->
+    <!--<item lat="10.796470" lng="106.672760" type="0x2b01" name="HOANG HA HOTEL"/>-->
+    <!--<item lat="10.796490" lng="106.647118" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.796510" lng="106.684410" type="0x6404" name="CHUALINHQUANG"/>-->
+    <!--<item lat="10.796620" lng="106.710358" type="0x2c05" name="TRUONG NGHIEP VU NH"/>-->
+    <!--<item lat="10.796730" lng="106.681953" type="0x2f06" name="NGANHANGNHANUO2"/>-->
+    <!--<item lat="10.796770" lng="106.675751" type="0x6404" name="CHUA KY QUAN"/>-->
+    <!--<item lat="10.796833" lng="106.647064" type="0x2a07" name="Bánh Mỳ"/>-->
+    <!--<item lat="10.796907" lng="106.646988" type="0x2a07" name="Bánh Mỳ"/>-->
+    <!--<item lat="10.797030" lng="106.653748" type="0x2f01" name="NAM TAM VI NA J.S.C"/>-->
+    <!--<item lat="10.797180" lng="106.684540" type="0x6404" name="CHUA LONG THANH"/>-->
+    <!--<item lat="10.797180" lng="106.710892" type="0x2f01" name="CAY XANG SO 30"/>-->
+    <!--<item lat="10.797189" lng="106.659088" type="0x3002" name="Hoàn Mỹ 2"/>-->
+    <!--<item lat="10.797330" lng="106.686089" type="0x6404" name="CHUA HAI DUC"/>-->
+    <!--<item lat="10.797381" lng="106.647186" type="0x2a0b" name=""/>-->
+    <!--<item lat="10.797440" lng="106.670624" type="0x2b01" name="HUU NGHI HOTEL"/>-->
+    <!--<item lat="10.797440" lng="106.694221" type="0x6404" name="CHUA PHO HIEN"/>-->
+    <!--<item lat="10.797455" lng="106.671326" type="0x3002" name="Vien Y duoc hoc Dan Toc"/>-->
+    <!--<item lat="10.797520" lng="106.690788" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.797630" lng="106.672501" type="0x6404" name="DAI GIAC PAGODA"/>-->
+    <!--<item lat="10.797666" lng="106.671455" type="0x3002" name="Viện Y Dược dân tộc"/>-->
+    <!--<item lat="10.797718" lng="106.649551" type="0x2a00" name="Tiêm ăn Món Huế"/>-->
+    <!--<item lat="10.797860" lng="106.673729" type="0x4600" name="CAFE HUONG"/>-->
+    <!--<item lat="10.797872" lng="106.656967" type="0x3001" name="Cảnh sát giao thông Quận Tân Bình"/>-->
+    <!--<item lat="10.798020" lng="106.681351" type="0x6404" name="CHUA GIAC TAM"/>-->
+    <!--<item lat="10.798053" lng="106.642723" type="0x3003" name="Trung tâm hành chính quận Tân Bình"/>-->
+    <!--<item lat="10.798230" lng="106.654640" type="0x2a07" name="CUA HANG ANLE"/>-->
+    <!--<item lat="10.798253" lng="106.647079" type="0x2e02" name="Hoàng Hoa Thám"/>-->
+    <!--<item lat="10.798261" lng="106.671791" type="0x3002" name="BV Quan Phu Nhuan"/>-->
+    <!--<item lat="10.798270" lng="106.662941" type="0x2f01" name="STORE PETROLEUM NO.9"/>-->
+    <!--<item lat="10.798293" lng="106.673782" type="0x2f11" name="Tabalo"/>-->
+    <!--<item lat="10.798320" lng="106.688904" type="0x2f01" name="PETROLIMEX PETROL STATION"/>-->
+    <!--<item lat="10.798340" lng="106.673729" type="0x2f11" name="TABALO.VN"/>-->
+    <!--<item lat="10.798340" lng="106.704674" type="0x2f01" name="TRAM XANG DAU SO 4"/>-->
+    <!--<item lat="10.798380" lng="106.683708" type="0x6404" name="CHUA PHO QUANG"/>-->
+    <!--<item lat="10.798393" lng="106.710709" type="0x2c05" name="Tiểu học Hồng Hà"/>-->
+    <!--<item lat="10.798440" lng="106.670532" type="0x2e00" name="MALLOCA"/>-->
+    <!--<item lat="10.798490" lng="106.686432" type="0x2d02" name=""/>-->
+    <!--<item lat="10.798498" lng="106.658363" type="0x2a00" name="Ăn Sáng Bún Mộc"/>-->
+    <!--<item lat="10.798510" lng="106.705681" type="0x2f01" name="TRAM XANG DAU HOANG NGUYEN 3.276"/>-->
+    <!--<item lat="10.798530" lng="106.690979" type="0x6404" name="CHUA LONG CHAU"/>-->
+    <!--<item lat="10.798530" lng="106.716469" type="0x2c01" name="Văn Thánh"/>-->
+    <!--<item lat="10.798609" lng="106.658340" type="0x2a0e" name="Cafe Tuan Ngoc"/>-->
+    <!--<item lat="10.798620" lng="106.684502" type="0x6404" name="CHUA LONG PHUOC"/>-->
+    <!--<item lat="10.798720" lng="106.689011" type="0x2e02" name="CO.OP SUPERMARKET"/>-->
+    <!--<item lat="10.798730" lng="106.667007" type="0x2c05" name="Dai hoc Tai chinh - Marketing"/>-->
+    <!--<item lat="10.798770" lng="106.686523" type="0x2a0e" name="ME KHUC"/>-->
+    <!--<item lat="10.798810" lng="106.642059" type="0x2f01" name="TRAM XANG DAU SO 17"/>-->
+    <!--<item lat="10.798810" lng="106.682030" type="0x6404" name="CHUA LANG VAN GIAP"/>-->
+    <!--<item lat="10.798888" lng="106.727242" type="0x6401" name="Sài Gòn"/>-->
+    <!--<item lat="10.799020" lng="106.682549" type="0x6404" name="CHUA QUANG MINH TU"/>-->
+    <!--<item lat="10.799070" lng="106.679443" type="0x2f01" name="DINH VU TRADING SERVICE PRODUCTION CO./ LTD: PETROLIMEX"/>-->
+    <!--<item lat="10.799090" lng="106.680489" type="0x2f06" name="VIETINBANK 5"/>-->
+    <!--<item lat="10.799130" lng="106.680077" type="0x4400" name="CAY XANG"/>-->
+    <!--<item lat="10.799130" lng="106.702271" type="0x6404" name="CHUALINHQUANG1"/>-->
+    <!--<item lat="10.799150" lng="106.702179" type="0x6404" name="CHUALINHQUANG2"/>-->
+    <!--<item lat="10.799370" lng="106.685173" type="0x6404" name="CHUA KIM SON"/>-->
+    <!--<item lat="10.799410" lng="106.661392" type="0x2f01" name="TONG DAI LY BAN XANG DAU TRUNG TAM THUONG MAI CHO LON"/>-->
+    <!--<item lat="10.799410" lng="106.680290" type="0x4400" name="CAY XANG"/>-->
+    <!--<item lat="10.799410" lng="106.696281" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.799584" lng="106.729301" type="0x6401" name="Đen 1"/>-->
+    <!--<item lat="10.799600" lng="106.696243" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.799670" lng="106.619850" type="0x2f01" name="CUA HANG XANG DAU SO 23 COMECO"/>-->
+    <!--<item lat="10.799690" lng="106.680527" type="0x2f01" name="PETROLIMEX PETROL STATION"/>-->
+    <!--<item lat="10.799730" lng="106.696190" type="0x2e02" name="CO.OP MART"/>-->
+    <!--<item lat="10.799731" lng="106.709908" type="0x6404" name="Nguyễn Duy Khang"/>-->
+    <!--<item lat="10.799763" lng="106.711281" type="0x2f06" name="ACB"/>-->
+    <!--<item lat="10.799794" lng="106.699707" type="0x6404" name="Nhà thờ Gia Định"/>-->
+    <!--<item lat="10.799800" lng="106.709854" type="0x2c05" name="THPT Gia Định"/>-->
+    <!--<item lat="10.799820" lng="106.668510" type="0x2f01" name="ESSO"/>-->
+    <!--<item lat="10.799860" lng="106.674217" type="0x2f01" name="BP: BP"/>-->
+    <!--<item lat="10.799880" lng="106.668320" type="0x2b00" name="PARK ROYAL HOTEL"/>-->
+    <!--<item lat="10.799920" lng="106.668877" type="0x2f01" name="ESSO: ESSO"/>-->
+    <!--<item lat="10.799947" lng="106.711227" type="0x2f06" name="ACB"/>-->
+    <!--<item lat="10.799950" lng="106.689934" type="0x2c0b" name=""/>-->
+    <!--<item lat="10.800010" lng="106.711227" type="0x3001" name="Phường 21"/>-->
+    <!--<item lat="10.800021" lng="106.650322" type="0x2a00" name="Miến Lươn Trí Nhân"/>-->
+    <!--<item lat="10.800080" lng="106.711090" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.800200" lng="106.672829" type="0x2a00" name="TAN SON NHAT HOTEL"/>-->
+    <!--<item lat="10.800270" lng="106.672234" type="0x2b01" name="TAN SON NHAT HOTEL"/>-->
+    <!--<item lat="10.800380" lng="106.670212" type="0x2e02" name="BIG C"/>-->
+    <!--<item lat="10.800400" lng="106.669739" type="0x2a0e" name="HIGHLANDS COFFEE"/>-->
+    <!--<item lat="10.800416" lng="106.640198" type="0x2a00" name="Bánh canh Cua Hai Dậu"/>-->
+    <!--<item lat="10.800550" lng="106.658020" type="0x2e02" name="MAXIMARK"/>-->
+    <!--<item lat="10.800660" lng="106.666351" type="0x640e" name="PARK"/>-->
+    <!--<item lat="10.800722" lng="106.639030" type="0x3003" name="Chi cục thuế quận Tân Bình"/>-->
+    <!--<item lat="10.800870" lng="106.657440" type="0x2f01" name="TRAM XANG DAU PHONG KHONG KHONG QUAN"/>-->
+    <!--<item lat="10.800922" lng="106.682365" type="0x3002" name="Tâm Thần TP.HCM"/>-->
+    <!--<item lat="10.800930" lng="106.660721" type="0x2f01" name="DAI LY XANG DAU 141"/>-->
+    <!--<item lat="10.800964" lng="106.682320" type="0x3002" name="BV Tam Than Tp CHM"/>-->
+    <!--<item lat="10.801280" lng="106.688904" type="0x2c0b" name=""/>-->
+    <!--<item lat="10.801344" lng="106.642418" type="0x2c05" name="Trường PTCS Yên Thế"/>-->
+    <!--<item lat="10.801396" lng="106.711319" type="0x6406" name="Vòng xoay Hàng Xanh"/>-->
+    <!--<item lat="10.801597" lng="106.710739" type="0x2f06" name="Agribank"/>-->
+    <!--<item lat="10.801670" lng="106.642403" type="0x2c05" name="Trường Mầm Non Phường 13"/>-->
+    <!--<item lat="10.801730" lng="106.647362" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.801880" lng="106.696640" type="0x2c0b" name="LANG"/>-->
+    <!--<item lat="10.801976" lng="106.641747" type="0x2f06" name="Ngân Hàng BVDI"/>-->
+    <!--<item lat="10.802010" lng="106.666801" type="0x2c08" name="SAN VAN DONG QUAN KHU 7"/>-->
+    <!--<item lat="10.802034" lng="106.711288" type="0x2f05" name="Hàng Xanh"/>-->
+    <!--<item lat="10.802050" lng="106.666924" type="0x2c08" name="Quân khu 7"/>-->
+    <!--<item lat="10.802081" lng="106.638214" type="0x2d08" name="Chùa Phật Đà"/>-->
+    <!--<item lat="10.802140" lng="106.626266" type="0x2f01" name="DAI LY XANG DAU SAI GON PETRO"/>-->
+    <!--<item lat="10.802140" lng="106.665771" type="0x2f01" name="CONG TY TNHH SX TMDV NANG LUONG"/>-->
+    <!--<item lat="10.802145" lng="106.648987" type="0x2c02" name="Phòng không - Không quân"/>-->
+    <!--<item lat="10.802197" lng="106.643341" type="0x2a11" name="Lẩu Dê Ấn Độ"/>-->
+    <!--<item lat="10.802200" lng="106.636108" type="0x2f01" name="DNTN TMDV THANH PHU"/>-->
+    <!--<item lat="10.802358" lng="106.696930" type="0x2c04" name="Lăng Ông Bà Chiểu"/>-->
+    <!--<item lat="10.802390" lng="106.642921" type="0x2f01" name="TRAM XANG DAU NGOC DEN"/>-->
+    <!--<item lat="10.802408" lng="106.676117" type="0x3002" name="BV Đa Khoa Ngoc Linh"/>-->
+    <!--<item lat="10.802455" lng="106.711296" type="0x2f06" name="VCB"/>-->
+    <!--<item lat="10.802460" lng="106.626991" type="0x2f01" name="DAI LY XANG DAU SAI GON PETRO"/>-->
+    <!--<item lat="10.802460" lng="106.698410" type="0x2e02" name="CHO B"/>-->
+    <!--<item lat="10.802492" lng="106.711174" type="0x2f06" name="VCB"/>-->
+    <!--<item lat="10.802598" lng="106.699242" type="0x2e02" name="Bà Chiểu"/>-->
+    <!--<item lat="10.802650" lng="106.695740" type="0x2f05" name="TRUNG T"/>-->
+    <!--<item lat="10.802670" lng="106.695534" type="0x2f06" name="VIETINBANK (VIETINBANK"/>-->
+    <!--<item lat="10.802690" lng="106.695152" type="0x2c05" name="DH MY THUAT"/>-->
+    <!--<item lat="10.802860" lng="106.657494" type="0x2f01" name="CONG TY CP THIET BI CONG NGHIEP HANG HAI DAU KHI"/>-->
+    <!--<item lat="10.802910" lng="106.699333" type="0x2e0c" name="FAHASA"/>-->
+    <!--<item lat="10.802990" lng="106.699593" type="0x2a00" name="GIA D"/>-->
+    <!--<item lat="10.802998" lng="106.709496" type="0x2f06" name="Đông Á Bank"/>-->
+    <!--<item lat="10.803030" lng="106.709648" type="0x3001" name="phường 25/ quận Bình Thạnh"/>-->
+    <!--<item lat="10.803072" lng="106.639458" type="0x2f10" name="Nha Tuan Beo"/>-->
+    <!--<item lat="10.803080" lng="106.709412" type="0x2f06" name="EAST ASIA BANK"/>-->
+    <!--<item lat="10.803100" lng="106.707718" type="0x2e09" name="VAN THANH MATTRESS"/>-->
+    <!--<item lat="10.803120" lng="106.699738" type="0x2f01" name="BACH DANG"/>-->
+    <!--<item lat="10.803167" lng="106.698982" type="0x2c05" name="tiểu học Lê Văn Tám"/>-->
+    <!--<item lat="10.803172" lng="106.694504" type="0x3002" name="Columbia Hospital"/>-->
+    <!--<item lat="10.803172" lng="106.695557" type="0x3002" name="BV Nhan dan Gia Dinh"/>-->
+    <!--<item lat="10.803177" lng="106.694527" type="0x3002" name="Columbia"/>-->
+    <!--<item lat="10.803193" lng="106.636093" type="0x2e01" name="Nhà sách"/>-->
+    <!--<item lat="10.803220" lng="106.699745" type="0x3003" name="kho bạc nhà nước"/>-->
+    <!--<item lat="10.803250" lng="106.699989" type="0x2e0c" name="HUNG CUONG"/>-->
+    <!--<item lat="10.803250" lng="106.709129" type="0x2f01" name="COMECO - CUA HANG XANG DAU SO 17"/>-->
+    <!--<item lat="10.803270" lng="106.704422" type="0x2f01" name="TRAM XANG DAU SO 5"/>-->
+    <!--<item lat="10.803320" lng="106.692680" type="0x2a07" name="LOTTERIA"/>-->
+    <!--<item lat="10.803346" lng="106.700058" type="0x3003" name="CHi cụ thuế Bình Thạnh"/>-->
+    <!--<item lat="10.803530" lng="106.688942" type="0x2f01" name="STORE PETROLEUM NO.20"/>-->
+    <!--<item lat="10.803550" lng="106.687851" type="0x2a0e" name="CAFE NOIR"/>-->
+    <!--<item lat="10.803680" lng="106.701111" type="0x2f08" name=""/>-->
+    <!--<item lat="10.803680" lng="106.702179" type="0x2b02" name=""/>-->
+    <!--<item lat="10.803700" lng="106.701172" type="0x2e02" name="FOCOMART"/>-->
+    <!--<item lat="10.803770" lng="106.701332" type="0x2e0c" name="VIET LONG"/>-->
+    <!--<item lat="10.803773" lng="106.685478" type="0x2c05" name="Đại học Văn Hiến"/>-->
+    <!--<item lat="10.803815" lng="106.694786" type="0x3002" name="Nhân Dân Gia Định"/>-->
+    <!--<item lat="10.803850" lng="106.632362" type="0x2f01" name="CONG TY TNHH MTV SX DV TANIMEX"/>-->
+    <!--<item lat="10.804337" lng="106.639557" type="0x2a0e" name="Cafe Huyền Thoại"/>-->
+    <!--<item lat="10.804848" lng="106.694260" type="0x3002" name="BV Ung Buu"/>-->
+    <!--<item lat="10.804943" lng="106.694824" type="0x3002" name="Ung Bứu"/>-->
+    <!--<item lat="10.804970" lng="106.666840" type="0x2f01" name="PETROLIMEX: CÂY XANG"/>-->
+    <!--<item lat="10.804974" lng="106.695221" type="0x3002" name="Ung Bứu"/>-->
+    <!--<item lat="10.805010" lng="106.668472" type="0x2c0b" name="PHO QUANG PAGODA"/>-->
+    <!--<item lat="10.805070" lng="106.694839" type="0x3002" name="HOSPITAL FOR CANCER TREATMENT"/>-->
+    <!--<item lat="10.805180" lng="106.645302" type="0x2a00" name="MARCEL"/>-->
+    <!--<item lat="10.805230" lng="106.687851" type="0x2d09" name="CHI LANG POOL"/>-->
+    <!--<item lat="10.805232" lng="106.705353" type="0x2d08" name="Chùa Long Vân"/>-->
+    <!--<item lat="10.805480" lng="106.688751" type="0x2a0e" name="VE COI"/>-->
+    <!--<item lat="10.805550" lng="106.699203" type="0x2f01" name="TR?M XANG NG?C LOAN"/>-->
+    <!--<item lat="10.806130" lng="106.687080" type="0x2f01" name="CAN LAC BAY CO./ LTD"/>-->
+    <!--<item lat="10.806223" lng="106.648087" type="0x2a11" name="Quán Đầu Làng"/>-->
+    <!--<item lat="10.806260" lng="106.694946" type="0x2a13" name="VEGETARIAN RESTAURANT"/>-->
+    <!--<item lat="10.806450" lng="106.719971" type="0x2f01" name="HAI SON LAM TRADING PTE."/>-->
+    <!--<item lat="10.806470" lng="106.694931" type="0x2e02" name="SHOP&amp;GO"/>-->
+    <!--<item lat="10.806640" lng="106.694946" type="0x2e0c" name="HONDA HEAD"/>-->
+    <!--<item lat="10.806750" lng="106.635208" type="0x2f01" name="DAI LY XANG DAU AN KHANG"/>-->
+    <!--<item lat="10.806782" lng="106.647827" type="0x2a11" name="Quán Thịt Thỏ Mạnh Quý"/>-->
+    <!--<item lat="10.806830" lng="106.696693" type="0x2f01" name="DNTN THUA PHUC - TRAM XANG DAU 178 LE QUANG DINH"/>-->
+    <!--<item lat="10.806960" lng="106.649940" type="0x2f01" name="XD SX XUAT NHAP KHAU HAI DUONG XANH CO./ LTD"/>-->
+    <!--<item lat="10.807180" lng="106.668541" type="0x2f01" name="TRAM XANG DAU QUAN DOI"/>-->
+    <!--<item lat="10.807890" lng="106.620071" type="0x2f01" name="TRAM XANG DAU TAY THANH"/>-->
+    <!--<item lat="10.808490" lng="106.664436" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.808640" lng="106.678169" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.808679" lng="106.626717" type="0x2d09" name="Tran Lâm"/>-->
+    <!--<item lat="10.809150" lng="106.695023" type="0x2e07" name="NGOC DUOC"/>-->
+    <!--<item lat="10.809170" lng="106.678169" type="0x2e02" name="CO.OP SUPERMARKET"/>-->
+    <!--<item lat="10.809220" lng="106.668900" type="0x2c0b" name=""/>-->
+    <!--<item lat="10.809560" lng="106.692719" type="0x2f01" name="TRAM XANG DAU SO 19"/>-->
+    <!--<item lat="10.809730" lng="106.633781" type="0x2f01" name="STORE PETROLEUM NO. 45"/>-->
+    <!--<item lat="10.810010" lng="106.695084" type="0x2f08" name=""/>-->
+    <!--<item lat="10.810420" lng="106.708450" type="0x2a0e" name="THUY TRUC"/>-->
+    <!--<item lat="10.810440" lng="106.612343" type="0x2f01" name="DAI LY XANG DAU TANIMEX"/>-->
+    <!--<item lat="10.810500" lng="106.667030" type="0x2f01" name="MINH NGUYEN CO./ LTD"/>-->
+    <!--<item lat="10.810570" lng="106.611969" type="0x2f01" name="XI NGHIEP KINH DOANH NHIEN LIEU"/>-->
+    <!--<item lat="10.810830" lng="106.659416" type="0x5901" name="TANSONNHAT INTL TERMINAL"/>-->
+    <!--<item lat="10.811210" lng="106.664589" type="0x2f01" name="Noname"/>-->
+    <!--<item lat="10.811250" lng="106.677040" type="0x2c06" name="Gia Định"/>-->
+    <!--<item lat="10.811470" lng="106.695473" type="0x2f01" name="PETROLIMEX"/>-->
+    <!--<item lat="10.811560" lng="106.695869" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.811710" lng="106.695793" type="0x2f01" name="PETROLIMEX"/>-->
+    <!--<item lat="10.811830" lng="106.695923" type="0x2c05" name="TRUNG T"/>-->
+    <!--<item lat="10.812263" lng="106.631325" type="0x640d" name="Nhà máy nước ngầm"/>-->
+    <!--<item lat="10.813140" lng="106.633171" type="0x2f01" name="CUA HANG XANG DAU TAN SON"/>-->
+    <!--<item lat="10.813210" lng="106.663330" type="0x2f0b" name="PARKING"/>-->
+    <!--<item lat="10.813263" lng="106.756973" type="0x6401" name="Rạch Chiếc"/>-->
+    <!--<item lat="10.813460" lng="106.606972" type="0x2f01" name="DNTN KD XANG DAU DUC THINH"/>-->
+    <!--<item lat="10.813660" lng="106.632957" type="0x2f01" name="TRAM XANG DAU TAN SON"/>-->
+    <!--<item lat="10.813890" lng="106.632492" type="0x2f01" name="TRAM XANG DAU THANH PHUC"/>-->
+    <!--<item lat="10.814040" lng="106.689613" type="0x2f01" name="TRAM XANG DAU NGOC TAI"/>-->
+    <!--<item lat="10.814170" lng="106.709030" type="0x2f01" name="DNTN TM NGOC DEN"/>-->
+    <!--<item lat="10.814320" lng="106.663406" type="0x2f0b" name="PARKING"/>-->
+    <!--<item lat="10.814322" lng="106.717552" type="0x6401" name="Kinh Thanh Đa"/>-->
+    <!--<item lat="10.814538" lng="106.712616" type="0x2f08" name="Bến xe Miền Đông - Cổng 3"/>-->
+    <!--<item lat="10.814540" lng="106.709839" type="0x2f01" name="CONG TY TNHH NANG LUONG BAC SON"/>-->
+    <!--<item lat="10.814690" lng="106.711304" type="0x2f08" name="EASTERN BUSSTATION"/>-->
+    <!--<item lat="10.814800" lng="106.678940" type="0x2f01" name="TRAM XANG DAU 175"/>-->
+    <!--<item lat="10.815520" lng="106.624641" type="0x2f01" name="TRAM XANG CONG TY TNHH MTV SX DV TAN BINH TANIMEX"/>-->
+    <!--<item lat="10.815536" lng="106.624527" type="0x4400" name=""/>-->
+    <!--<item lat="10.815539" lng="106.714996" type="0x6404" name="Thanh Đa"/>-->
+    <!--<item lat="10.815570" lng="106.665131" type="0x2f0b" name="PARKING"/>-->
+    <!--<item lat="10.815870" lng="106.713120" type="0x2f01" name="CUA HANG XANG DAU LAN ANH"/>-->
+    <!--<item lat="10.816100" lng="106.688560" type="0x2f01" name="TRAM XANG DAU SO 19"/>-->
+    <!--<item lat="10.816150" lng="106.713173" type="0x2f01" name="CONG TY TNHH NHIEN LIEU THAI DUONG"/>-->
+    <!--<item lat="10.816380" lng="106.710892" type="0x2f01" name="CUA HANG XANG DAU SO 11"/>-->
+    <!--<item lat="10.816640" lng="106.698174" type="0x2e02" name="SI"/>-->
+    <!--<item lat="10.816710" lng="106.666710" type="0x2f0b" name="PARKING"/>-->
+    <!--<item lat="10.816860" lng="106.698112" type="0x2e05" name=""/>-->
+    <!--<item lat="10.816920" lng="106.713249" type="0x2f01" name="TRAM XANG DAU QUANG MAN"/>-->
+    <!--<item lat="10.816980" lng="106.719971" type="0x2a07" name="KFC"/>-->
+    <!--<item lat="10.817180" lng="106.694572" type="0x3001" name="CA.QUAN 12"/>-->
+    <!--<item lat="10.817200" lng="106.720337" type="0x2f01" name="CUA HANG XANG DAU SO 27"/>-->
+    <!--<item lat="10.817520" lng="106.659180" type="0x2f04" name="TAN SON NHAT INTERNATIONAL AIRPORT"/>-->
+    <!--<item lat="10.817710" lng="106.695229" type="0x2f01" name="CONG TY THIET BI XANG DAU PETROLIMEX - CN TPHCM"/>-->
+    <!--<item lat="10.817840" lng="106.705162" type="0x2f01" name="CONG TY TNHH QUYET HOANG"/>-->
+    <!--<item lat="10.819154" lng="106.679131" type="0x3002" name="Bệnh Viện 175"/>-->
+    <!--<item lat="10.820149" lng="106.630203" type="0x6416" name="Tân Bình"/>-->
+    <!--<item lat="10.823720" lng="106.691902" type="0x2f01" name="CUA HANG XANG DAU SO 31 - COMECO"/>-->
+    <!--<item lat="10.824300" lng="106.630127" type="0x2f01" name="DAI LY BAN LE XANG DAU DONG NAM"/>-->
+    <!--<item lat="10.825200" lng="106.690514" type="0x2f01" name="DAI LY XANG DAU 168B"/>-->
+    <!--<item lat="10.825440" lng="106.679626" type="0x2f01" name="DAI LY XANG DAU 679"/>-->
+    <!--<item lat="10.825820" lng="106.684120" type="0x2f01" name="STORE PETROLEUM NO.22"/>-->
+    <!--<item lat="10.826230" lng="106.689560" type="0x2f01" name="Đ?I LY XANG D?U CONG TY ĐONG H?I"/>-->
+    <!--<item lat="10.826467" lng="106.679985" type="0x6406" name="Ngã 5 Chuồng Chó"/>-->
+    <!--<item lat="10.826940" lng="106.708359" type="0x6401" name="CAU BINH LOI"/>-->
+    <!--<item lat="10.827510" lng="106.716324" type="0x2f08" name="Ga Bình Triệu"/>-->
+    <!--<item lat="10.829070" lng="106.672958" type="0x2f01" name="TONG CONG TY XANG DAU QUAN DOI"/>-->
+    <!--<item lat="10.829260" lng="106.682640" type="0x2f01" name="Đ?I LY XANG D?U PHUONG NAM"/>-->
+    <!--<item lat="10.830460" lng="106.678490" type="0x2f01" name="TRAM XANG"/>-->
+    <!--<item lat="10.830480" lng="106.678467" type="0x2f01" name="Đ?I LY BAN L? XANG D?U NGUY?N OANH"/>-->
+    <!--<item lat="10.831130" lng="106.677437" type="0x2f01" name="DAI LY XANG DAU 77"/>-->
+    <!--<item lat="10.831700" lng="106.668617" type="0x2f01" name="TRAM XANG DAU SO 18"/>-->
+    <!--<item lat="10.831980" lng="106.668221" type="0x2f01" name="TRAM XANG DAU THANH DAT"/>-->
+    <!--<item lat="10.832580" lng="106.685852" type="0x2f01" name="TR?M XANG D?U LAN ANH"/>-->
+    <!--<item lat="10.832880" lng="106.685402" type="0x2f01" name="C?A HANG XANG D?U CONG TY 28"/>-->
+    <!--<item lat="10.834244" lng="106.680099" type="0x4b00" name="Trung tâm y tế phường 6"/>-->
+    <!--<item lat="10.835440" lng="106.662300" type="0x2f01" name="CUA HANG BAN LE XANG DAU QUANG TRUNG"/>-->
+    <!--<item lat="10.835645" lng="106.615578" type="0x5300" name="Đình Thần Thuận Kiều"/>-->
+    <!--<item lat="10.835780" lng="106.661072" type="0x2f01" name="CUA HANG XANG DAU SO 29"/>-->
+    <!--<item lat="10.835870" lng="106.635620" type="0x2f01" name="DAI LY XANG DAU ANH THU"/>-->
+    <!--<item lat="10.836436" lng="106.608826" type="0x6411" name="Cao ốc Parkside"/>-->
+    <!--<item lat="10.836450" lng="106.657806" type="0x2f01" name="TRAM XANG DAU 72"/>-->
+    <!--<item lat="10.836700" lng="106.657043" type="0x2f01" name="DAI LY XANG DAU SO 21"/>-->
+    <!--<item lat="10.837520" lng="106.654442" type="0x2f01" name="TRAM XANG DAU 96 QUANG TRUNG"/>-->
+    <!--<item lat="10.838051" lng="106.615379" type="0x5300" name="Thánh Thất Thuận Kiều"/>-->
+    <!--<item lat="10.838210" lng="106.675453" type="0x2f01" name="DAI LY XANG DAU SO 9"/>-->
+    <!--<item lat="10.838400" lng="106.636742" type="0x2f01" name="TRAM XANG DAU COMECO ( CN2"/>-->
+    <!--<item lat="10.840008" lng="106.615349" type="0x3003" name="Liên đoàn vỗ thuật cổ truyền Việt Nam - Hội võ thuật cổ truyền thành phố Hồ Chí"/>-->
+    <!--<item lat="10.840357" lng="106.674583" type="0x2f10" name="Nhà ông GPS"/>-->
+    <!--<item lat="10.841304" lng="106.614960" type="0x5300" name="Đền Đức Mẹ Fatima - Giáo xứ Lạc Quang"/>-->
+    <!--<item lat="10.841570" lng="106.616333" type="0x2e02" name="Chợ Bàu Nai"/>-->
+    <!--<item lat="10.841600" lng="106.657249" type="0x2a0e" name="CAFE VOCUC"/>-->
+    <!--<item lat="10.842580" lng="106.676987" type="0x2f01" name="CUA HANG XANG DAU SO 2"/>-->
+    <!--<item lat="10.842650" lng="106.615150" type="0x6401" name="AN SUONG Crossing Bridge"/>-->
+    <!--<item lat="10.842653" lng="106.615341" type="0x6406" name="Ngã 4 An Sương"/>-->
+    <!--<item lat="10.843474" lng="106.613480" type="0x2f08" name="Bến xe An Sương"/>-->
+    <!--<item lat="10.843991" lng="106.631363" type="0x4b00" name="Trạm Y Tế Phường Đông Hưng Thuận"/>-->
+    <!--<item lat="10.844246" lng="106.616417" type="0x640d" name="Xí Nghiệp Cơ Khí Ôtô Miền Đông"/>-->
+    <!--<item lat="10.844866" lng="106.641518" type="0x2d08" name="Chùa Liên Hoa"/>-->
+    <!--<item lat="10.846470" lng="106.636635" type="0x6401" name="Cầu Chợ Cầu"/>-->
+    <!--<item lat="10.846768" lng="106.636475" type="0x2e02" name="Chợ Cầu"/>-->
+    <!--<item lat="10.847505" lng="106.635117" type="0x6406" name="Ngã Tư Chợ Cầu"/>-->
+    <!--<item lat="10.847621" lng="106.621140" type="0x3008" name="Phòng cảnh sát phòng cháy chữa cháy Quận 12"/>-->
+    <!--<item lat="10.847840" lng="106.678619" type="0x2f01" name="DAI LY XANG DAU THANH LOC"/>-->
+    <!--<item lat="10.848614" lng="106.633842" type="0x2e04" name="Thế Giới Di Động"/>-->
+    <!--<item lat="10.849123" lng="106.773964" type="0x6406" name="Ngã 4 Thủ Đức"/>-->
+    <!--<item lat="10.849320" lng="106.664871" type="0x2f01" name="TRAM XANG DAU CONG THIEN"/>-->
+    <!--<item lat="10.849360" lng="106.650620" type="0x2f01" name="TRAM XANG DAU CONG TY TNHH TM SAN XUAT AN HOI"/>-->
+    <!--<item lat="10.849600" lng="106.678619" type="0x2f01" name="DAI LY XANG DAU AN LOC"/>-->
+    <!--<item lat="10.849649" lng="106.792290" type="0x2c05" name="CD-TC Hai Quan"/>-->
+    <!--<item lat="10.849818" lng="106.632355" type="0x2e06" name="Nhà Sách Đông Hưng Thuận"/>-->
+    <!--<item lat="10.850882" lng="106.628754" type="0x6401" name="Quang Trung"/>-->
+    <!--<item lat="10.850890" lng="106.628792" type="0x6401" name="QUANG TRUNG Crossing Bridge"/>-->
+    <!--<item lat="10.851320" lng="106.655922" type="0x2f01" name="TRAM XANG DAU SO 8"/>-->
+    <!--<item lat="10.851499" lng="106.637321" type="0x2d08" name="Long Thành"/>-->
+    <!--<item lat="10.851636" lng="106.632690" type="0x640d" name="Sasanga Garment Factory"/>-->
+    <!--<item lat="10.852526" lng="106.629860" type="0x6405" name="Khu công viên phần mềm Quang Trung"/>-->
+    <!--<item lat="10.852904" lng="106.629211" type="0x2c05" name="FPT University"/>-->
+    <!--<item lat="10.855213" lng="106.655663" type="0x6401" name="Cầu Cụt"/>-->
+    <!--<item lat="10.856559" lng="106.621521" type="0x640d" name="Xí Nghiệp lương thực thực phẩm Miliket"/>-->
+    <!--<item lat="10.856845" lng="106.625870" type="0x2c05" name="Đại học Hoa Sen"/>-->
+    <!--<item lat="10.857070" lng="106.653687" type="0x2f01" name="DNTN XANG DAU HONG TUYET"/>-->
+    <!--<item lat="10.857161" lng="106.654396" type="0x6404" name="Nữ Vương Hoà Bình"/>-->
+    <!--<item lat="10.857515" lng="106.623032" type="0x5300" name="Đình thần Tân Đông Thượng"/>-->
+    <!--<item lat="10.859333" lng="106.617897" type="0x2e02" name="Chợ Tân Chánh Hiệp"/>-->
+    <!--<item lat="10.859825" lng="106.650887" type="0x6401" name="Trường Đại"/>-->
+    <!--<item lat="10.861027" lng="106.648003" type="0x2e02" name="Cây Xoài"/>-->
+    <!--<item lat="10.861040" lng="106.669777" type="0x6401" name="THANH LOC Bridge"/>-->
+    <!--<item lat="10.861290" lng="106.684181" type="0x6401" name="AN PHU DONG Bridge"/>-->
+    <!--<item lat="10.861451" lng="106.680237" type="0x6401" name="Ngã Tư Ga"/>-->
+    <!--<item lat="10.861490" lng="106.680206" type="0x6401" name="NGA TU GA Crossing Bridge"/>-->
+    <!--<item lat="10.861660" lng="106.664757" type="0x6401" name="BEN CAT 2 Bridge"/>-->
+    <!--<item lat="10.861720" lng="106.677101" type="0x6401" name="CA BON Bridge"/>-->
+    <!--<item lat="10.861740" lng="106.669960" type="0x6401" name="NUOC SAU Bridge"/>-->
+    <!--<item lat="10.861790" lng="106.717102" type="0x6401" name="BINH PHUOC Bridge"/>-->
+    <!--<item lat="10.862020" lng="106.649780" type="0x6401" name="TAN THOI HIEP Crossing Bridge"/>-->
+    <!--<item lat="10.862114" lng="106.643631" type="0x5300" name="Đình Tân Hưng"/>-->
+    <!--<item lat="10.862330" lng="106.649261" type="0x2e04" name="Metro Hiệp Phú"/>-->
+    <!--<item lat="10.862469" lng="106.795563" type="0x6401" name="Cầu vượt trạm 2"/>-->
+    <!--<item lat="10.862610" lng="106.679878" type="0x2f08" name="Ngã tư ga"/>-->
+    <!--<item lat="10.865260" lng="106.723938" type="0x6401" name="BINH PHUOC Crossing Bridge"/>-->
+    <!--<item lat="10.873325" lng="106.765137" type="0x6401" name="Cầu vượt Linh Xuân"/>-->
+    <!--<item lat="10.875548" lng="106.751701" type="0x6401" name="Cầu vượt Sóng Thần"/>-->
+    <!--<item lat="10.898590" lng="106.694244" type="0x6401" name="Cầu Phú Long"/>-->
+    <!--<item lat="10.771918" lng="106.699432" type="0x3002" name="BV ĐK Sài Gòn"/>-->
+    <!--<item lat="10.772081" lng="106.698311" type="0x2e02" name="Chợ Bến Thành - cửa Nam"/>-->
+    <!--<item lat="10.772261" lng="106.697701" type="0x3002" name="Chợ Bến Thành - cửa Tây"/>-->
+    <!--<item lat="10.772651" lng="106.698395" type="0x2e02" name="Chợ Bến Thành - cửa Đông"/>-->
+    <!--<item lat="10.773043" lng="106.697693" type="0x2e02" name="Chợ Bến Thành - cửa Bắc"/>-->
+    <!--<item lat="10.773320" lng="106.706184" type="0x3007" name="Lãnh sự quán Ý"/>-->
+    <!--<item lat="10.771705" lng="106.705757" type="0x3007" name="Lãnh sự quán Nhật Bản"/>-->
+    <!--<item lat="10.763502" lng="106.691780" type="0x3002" name="BV Răng Hàm Mặt"/>-->
+    <!--<item lat="10.753124" lng="106.660698" type="0x2d08" name="Chùa Thiên Hậu"/>-->
+    <!--<item lat="10.753294" lng="106.658943" type="0x2d03" name="Rạp Toàn Thắng"/>-->
+    <!--<item lat="10.751892" lng="106.660698" type="0x3001" name="CA Quận 5"/>-->
+    <!--<item lat="10.750969" lng="106.660660" type="0x3002" name="BV CA TPHCM"/>-->
+    <!--<item lat="10.767533" lng="106.684044" type="0x3003" name="Hội Chữ Thập Đỏ"/>-->
+    <!--<item lat="10.760545" lng="106.673637" type="0x2c06" name="Hoà Bình"/>-->
+    <!--<item lat="10.826815" lng="106.679604" type="0x2e04" name="Siêu thị văn hóa Văn Lang"/>-->
+    <!--<item lat="10.825930" lng="106.680077" type="0x2e04" name="Siêu thị Big C"/>-->
+    <!--<item lat="10.829059" lng="106.678375" type="0x2d00" name="Cà phê sách Phương Nam"/>-->
+    <!--<item lat="10.826615" lng="106.679840" type="0x2e04" name="Siêu thị văn hóa Văn Lang"/>-->
+    <!--<item lat="10.826309" lng="106.680023" type="0x3002" name="siêu thị Big C"/>-->
+    <!--<item lat="10.809785" lng="106.679092" type="0x3002" name="testpoi"/>-->
+    <!--<item lat="10.787253" lng="106.701469" type="0x2c08" name="SVD Hoa Lu"/>-->
+    <!--<item lat="10.755507" lng="106.690918" type="0x0d00" name="Khánh Hội 2"/>-->
+    <!--<item lat="10.788454" lng="106.701279" type="0x2c00" name=""/>-->
+    <!--<item lat="10.770885" lng="106.550552" type="0x2f05" name="BĐ LMX"/>-->
+    <!--<item lat="10.770885" lng="106.550552" type="0x2f05" name="BĐ LMX"/>-->
+    <!--<item lat="10.815117" lng="106.620865" type="0x2f05" name="Buu di?n KCN T"/>-->
+    <!--<item lat="10.815117" lng="106.620865" type="0x2f05" name="Buu di?n KCN T"/>-->
+    <!--<item lat="10.815117" lng="106.620865" type="0x2f05" name="Buu di?n KCN T"/>-->
+    <!--<item lat="10.815117" lng="106.620865" type="0x2f05" name="Buu di?n KCN T"/>-->
+    <!--<item lat="10.815117" lng="106.620865" type="0x2f05" name="Buu di?n KCN T"/>-->
+    <!--<item lat="10.815117" lng="106.620865" type="0x2f05" name="Buu di?n KCN T"/>-->
+    <!--<item lat="10.815752" lng="106.624268" type="0x2f06" name="Sacombank"/>-->
+    <!--<item lat="10.815117" lng="106.620865" type="0x2f05" name="Buu di?n KCN T"/>-->
+    <!--<item lat="10.815752" lng="106.624268" type="0x2f06" name="Sacombank"/>-->
+    <!--<item lat="10.815434" lng="106.624481" type="0x4400" name="C"/>-->
+</resources>
